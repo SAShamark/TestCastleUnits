@@ -1,0 +1,172 @@
+fileFormatVersion: 2
+guid: f686aeb120270ba4ba4f2653d2c3a9ef
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      74: -4355942117883110427
+    second: Armature|Armature|Attack01|BaseLayer
+  - first:
+      74: 8496642176537569246
+    second: Armature|Armature|AttackSpell01|BaseLayer
+  - first:
+      74: 6841530268459118996
+    second: Armature|Armature|AttackSpell|BaseLayer
+  - first:
+      74: 4709245417348315766
+    second: Armature|Armature|attack|BaseLayer
+  - first:
+      74: 5180748901262917378
+    second: Armature|Armature|Death|BaseLayer
+  - first:
+      74: 6571963743627279448
+    second: Armature|Armature|hit|BaseLayer
+  - first:
+      74: 1820405490537863708
+    second: Armature|Armature|JumpEnd|BaseLayer
+  - first:
+      74: 901073044471118770
+    second: Armature|Armature|JumpLoop|BaseLayer
+  - first:
+      74: -4588292724619991014
+    second: Armature|Armature|JumpStart|BaseLayer
+  - first:
+      74: 2033847018764663431
+    second: Armature|Armature|ReadyAttackSpell|BaseLayer
+  - first:
+      74: 6071752825473419549
+    second: Armature|Armature|ReadyAttack|BaseLayer
+  - first:
+      74: 3965490588014556667
+    second: Armature|Armature|Run01|BaseLayer
+  - first:
+      74: 8483370152482592756
+    second: Armature|Armature|run|BaseLayer
+  - first:
+      74: -3853113511281493763
+    second: Armature|Armature|SpellA|BaseLayer
+  - first:
+      74: -7121446990700233677
+    second: Armature|Armature|SpellB|BaseLayer
+  - first:
+      74: -4770285812678411503
+    second: Armature|Armature|Spell|BaseLayer
+  - first:
+      74: -2943700066696408755
+    second: Armature|Armature|Stand01|BaseLayer
+  - first:
+      74: 5105839777074556965
+    second: Armature|Armature|Stand|BaseLayer
+  - first:
+      74: -7148951402834920391
+    second: Armature|Armature|Stun|BaseLayer
+  - first:
+      74: 5148539816429092426
+    second: Armature|Armature|Talk01|BaseLayer
+  - first:
+      74: 3682197134185857297
+    second: Armature|Armature|Talk|BaseLayer
+  - first:
+      74: -5043421569218978133
+    second: Armature|Armature|walk|BaseLayer
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
