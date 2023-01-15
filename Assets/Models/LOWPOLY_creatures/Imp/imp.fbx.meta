@@ -1,0 +1,3123 @@
+fileFormatVersion: 2
+guid: b4091e3d4e6a6974b8a9fcf47c1483d2
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: arm1.L
+  - first:
+      1: 100002
+    second: arm1.R
+  - first:
+      1: 100004
+    second: arm2.L
+  - first:
+      1: 100006
+    second: arm2.R
+  - first:
+      1: 100008
+    second: f_index1.L
+  - first:
+      1: 100010
+    second: f_index1.R
+  - first:
+      1: 100012
+    second: f_index2.L
+  - first:
+      1: 100014
+    second: f_index2.R
+  - first:
+      1: 100016
+    second: f_index3.L
+  - first:
+      1: 100018
+    second: f_index3.L_end
+  - first:
+      1: 100020
+    second: f_index3.R
+  - first:
+      1: 100022
+    second: f_index3.R_end
+  - first:
+      1: 100024
+    second: f_middle1.L
+  - first:
+      1: 100026
+    second: f_middle1.R
+  - first:
+      1: 100028
+    second: f_middle2.L
+  - first:
+      1: 100030
+    second: f_middle2.R
+  - first:
+      1: 100032
+    second: f_middle3.L
+  - first:
+      1: 100034
+    second: f_middle3.L_end
+  - first:
+      1: 100036
+    second: f_middle3.R
+  - first:
+      1: 100038
+    second: f_middle3.R_end
+  - first:
+      1: 100040
+    second: f_ring1.L
+  - first:
+      1: 100042
+    second: f_ring1.R
+  - first:
+      1: 100044
+    second: f_ring2.L
+  - first:
+      1: 100046
+    second: f_ring2.R
+  - first:
+      1: 100048
+    second: f_ring3.L
+  - first:
+      1: 100050
+    second: f_ring3.L_end
+  - first:
+      1: 100052
+    second: f_ring3.R
+  - first:
+      1: 100054
+    second: f_ring3.R_end
+  - first:
+      1: 100056
+    second: f_thumb1.L
+  - first:
+      1: 100058
+    second: f_thumb1.R
+  - first:
+      1: 100060
+    second: f_thumb2.L
+  - first:
+      1: 100062
+    second: f_thumb2.L_end
+  - first:
+      1: 100064
+    second: f_thumb2.R
+  - first:
+      1: 100066
+    second: f_thumb2.R_end
+  - first:
+      1: 100068
+    second: hand.L
+  - first:
+      1: 100070
+    second: hand.R
+  - first:
+      1: 100072
+    second: head
+  - first:
+      1: 100074
+    second: hip
+  - first:
+      1: 100076
+    second: IK_arm.L
+  - first:
+      1: 100078
+    second: IK_arm.R
+  - first:
+      1: 100080
+    second: IK_elbow.L
+  - first:
+      1: 100082
+    second: IK_elbow.L_end
+  - first:
+      1: 100084
+    second: IK_elbow.R
+  - first:
+      1: 100086
+    second: IK_elbow.R_end
+  - first:
+      1: 100088
+    second: IK_wing.L
+  - first:
+      1: 100090
+    second: IK_wing.R
+  - first:
+      1: 100092
+    second: IK_wing_direct.L
+  - first:
+      1: 100094
+    second: IK_wing_direct.L_end
+  - first:
+      1: 100096
+    second: IK_wing_direct.R
+  - first:
+      1: 100098
+    second: IK_wing_direct.R_end
+  - first:
+      1: 100100
+    second: //RootNode
+  - first:
+      1: 100102
+    second: imp
+  - first:
+      1: 100104
+    second: imp_arma
+  - first:
+      1: 100106
+    second: imp_wings_b
+  - first:
+      1: 100108
+    second: jaw
+  - first:
+      1: 100110
+    second: jaw_end
+  - first:
+      1: 100112
+    second: neck
+  - first:
+      1: 100114
+    second: root
+  - first:
+      1: 100116
+    second: sholder.L
+  - first:
+      1: 100118
+    second: sholder.R
+  - first:
+      1: 100120
+    second: spine
+  - first:
+      1: 100122
+    second: tail1
+  - first:
+      1: 100124
+    second: tail2
+  - first:
+      1: 100126
+    second: tail3
+  - first:
+      1: 100128
+    second: tail3_end
+  - first:
+      1: 100130
+    second: wing_arm.L
+  - first:
+      1: 100132
+    second: wing_arm.R
+  - first:
+      1: 100134
+    second: wing_f1_1.L
+  - first:
+      1: 100136
+    second: wing_f1_1.R
+  - first:
+      1: 100138
+    second: wing_f1_2.L
+  - first:
+      1: 100140
+    second: wing_f1_2.L_end
+  - first:
+      1: 100142
+    second: wing_f1_2.R
+  - first:
+      1: 100144
+    second: wing_f1_2.R_end
+  - first:
+      1: 100146
+    second: wing_f2_1.L
+  - first:
+      1: 100148
+    second: wing_f2_1.R
+  - first:
+      1: 100150
+    second: wing_f2_2.L
+  - first:
+      1: 100152
+    second: wing_f2_2.L_end
+  - first:
+      1: 100154
+    second: wing_f2_2.R
+  - first:
+      1: 100156
+    second: wing_f2_2.R_end
+  - first:
+      1: 100158
+    second: wing_f3_1.L
+  - first:
+      1: 100160
+    second: wing_f3_1.R
+  - first:
+      1: 100162
+    second: wing_f3_2.L
+  - first:
+      1: 100164
+    second: wing_f3_2.L_end
+  - first:
+      1: 100166
+    second: wing_f3_2.R
+  - first:
+      1: 100168
+    second: wing_f3_2.R_end
+  - first:
+      1: 100170
+    second: wing_root.L
+  - first:
+      1: 100172
+    second: wing_root.R
+  - first:
+      1: 100174
+    second: imp.001
+  - first:
+      4: 400000
+    second: arm1.L
+  - first:
+      4: 400002
+    second: arm1.R
+  - first:
+      4: 400004
+    second: arm2.L
+  - first:
+      4: 400006
+    second: arm2.R
+  - first:
+      4: 400008
+    second: f_index1.L
+  - first:
+      4: 400010
+    second: f_index1.R
+  - first:
+      4: 400012
+    second: f_index2.L
+  - first:
+      4: 400014
+    second: f_index2.R
+  - first:
+      4: 400016
+    second: f_index3.L
+  - first:
+      4: 400018
+    second: f_index3.L_end
+  - first:
+      4: 400020
+    second: f_index3.R
+  - first:
+      4: 400022
+    second: f_index3.R_end
+  - first:
+      4: 400024
+    second: f_middle1.L
+  - first:
+      4: 400026
+    second: f_middle1.R
+  - first:
+      4: 400028
+    second: f_middle2.L
+  - first:
+      4: 400030
+    second: f_middle2.R
+  - first:
+      4: 400032
+    second: f_middle3.L
+  - first:
+      4: 400034
+    second: f_middle3.L_end
+  - first:
+      4: 400036
+    second: f_middle3.R
+  - first:
+      4: 400038
+    second: f_middle3.R_end
+  - first:
+      4: 400040
+    second: f_ring1.L
+  - first:
+      4: 400042
+    second: f_ring1.R
+  - first:
+      4: 400044
+    second: f_ring2.L
+  - first:
+      4: 400046
+    second: f_ring2.R
+  - first:
+      4: 400048
+    second: f_ring3.L
+  - first:
+      4: 400050
+    second: f_ring3.L_end
+  - first:
+      4: 400052
+    second: f_ring3.R
+  - first:
+      4: 400054
+    second: f_ring3.R_end
+  - first:
+      4: 400056
+    second: f_thumb1.L
+  - first:
+      4: 400058
+    second: f_thumb1.R
+  - first:
+      4: 400060
+    second: f_thumb2.L
+  - first:
+      4: 400062
+    second: f_thumb2.L_end
+  - first:
+      4: 400064
+    second: f_thumb2.R
+  - first:
+      4: 400066
+    second: f_thumb2.R_end
+  - first:
+      4: 400068
+    second: hand.L
+  - first:
+      4: 400070
+    second: hand.R
+  - first:
+      4: 400072
+    second: head
+  - first:
+      4: 400074
+    second: hip
+  - first:
+      4: 400076
+    second: IK_arm.L
+  - first:
+      4: 400078
+    second: IK_arm.R
+  - first:
+      4: 400080
+    second: IK_elbow.L
+  - first:
+      4: 400082
+    second: IK_elbow.L_end
+  - first:
+      4: 400084
+    second: IK_elbow.R
+  - first:
+      4: 400086
+    second: IK_elbow.R_end
+  - first:
+      4: 400088
+    second: IK_wing.L
+  - first:
+      4: 400090
+    second: IK_wing.R
+  - first:
+      4: 400092
+    second: IK_wing_direct.L
+  - first:
+      4: 400094
+    second: IK_wing_direct.L_end
+  - first:
+      4: 400096
+    second: IK_wing_direct.R
+  - first:
+      4: 400098
+    second: IK_wing_direct.R_end
+  - first:
+      4: 400100
+    second: //RootNode
+  - first:
+      4: 400102
+    second: imp
+  - first:
+      4: 400104
+    second: imp_arma
+  - first:
+      4: 400106
+    second: imp_wings_b
+  - first:
+      4: 400108
+    second: jaw
+  - first:
+      4: 400110
+    second: jaw_end
+  - first:
+      4: 400112
+    second: neck
+  - first:
+      4: 400114
+    second: root
+  - first:
+      4: 400116
+    second: sholder.L
+  - first:
+      4: 400118
+    second: sholder.R
+  - first:
+      4: 400120
+    second: spine
+  - first:
+      4: 400122
+    second: tail1
+  - first:
+      4: 400124
+    second: tail2
+  - first:
+      4: 400126
+    second: tail3
+  - first:
+      4: 400128
+    second: tail3_end
+  - first:
+      4: 400130
+    second: wing_arm.L
+  - first:
+      4: 400132
+    second: wing_arm.R
+  - first:
+      4: 400134
+    second: wing_f1_1.L
+  - first:
+      4: 400136
+    second: wing_f1_1.R
+  - first:
+      4: 400138
+    second: wing_f1_2.L
+  - first:
+      4: 400140
+    second: wing_f1_2.L_end
+  - first:
+      4: 400142
+    second: wing_f1_2.R
+  - first:
+      4: 400144
+    second: wing_f1_2.R_end
+  - first:
+      4: 400146
+    second: wing_f2_1.L
+  - first:
+      4: 400148
+    second: wing_f2_1.R
+  - first:
+      4: 400150
+    second: wing_f2_2.L
+  - first:
+      4: 400152
+    second: wing_f2_2.L_end
+  - first:
+      4: 400154
+    second: wing_f2_2.R
+  - first:
+      4: 400156
+    second: wing_f2_2.R_end
+  - first:
+      4: 400158
+    second: wing_f3_1.L
+  - first:
+      4: 400160
+    second: wing_f3_1.R
+  - first:
+      4: 400162
+    second: wing_f3_2.L
+  - first:
+      4: 400164
+    second: wing_f3_2.L_end
+  - first:
+      4: 400166
+    second: wing_f3_2.R
+  - first:
+      4: 400168
+    second: wing_f3_2.R_end
+  - first:
+      4: 400170
+    second: wing_root.L
+  - first:
+      4: 400172
+    second: wing_root.R
+  - first:
+      4: 400174
+    second: imp.001
+  - first:
+      43: 4300000
+    second: imp_wings_b
+  - first:
+      43: 4300002
+    second: imp
+  - first:
+      43: 4300004
+    second: imp.001
+  - first:
+      74: 7400000
+    second: imp_arma|1RENDER
+  - first:
+      74: 7400002
+    second: imp_arma|1RENDER.001
+  - first:
+      74: 7400004
+    second: imp_arma|1RENDER.002
+  - first:
+      74: 7400006
+    second: imp_arma|1RENDER.003
+  - first:
+      74: 7400008
+    second: imp_arma|1RENDER.004
+  - first:
+      74: 7400010
+    second: imp_attack1
+  - first:
+      74: 7400012
+    second: imp_attack2
+  - first:
+      74: 7400014
+    second: imp_cast
+  - first:
+      74: 7400016
+    second: imp_death1
+  - first:
+      74: 7400018
+    second: imp_death2
+  - first:
+      74: 7400020
+    second: imp_hit_1
+  - first:
+      74: 7400022
+    second: imp_hit_2
+  - first:
+      74: 7400024
+    second: imp_idle_battle
+  - first:
+      74: 7400026
+    second: imp_idle
+  - first:
+      74: 7400028
+    second: imp_run
+  - first:
+      74: 7400030
+    second: imp_walk
+  - first:
+      74: 7400032
+    second: imp_walk_back
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: imp
+  - first:
+      137: 13700002
+    second: imp_wings_b
+  - first:
+      137: 13700004
+    second: imp.001
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LowPoly
+    second: {fileID: 2100000, guid: 5caedb2d92982ea489243a056d0cb187, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 1
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: imp_attack1
+      takeName: imp_arma|attack1
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 32
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: imp
+        weight: 1
+      - path: imp_arma
+        weight: 1
+      - path: imp_arma/root
+        weight: 1
+      - path: imp_arma/root/hip
+        weight: 1
+      - path: imp_arma/root/hip/spine
+        weight: 1
+      - path: imp_arma/root/hip/spine/neck
+        weight: 1
+      - path: imp_arma/root/hip/spine/neck/head
+        weight: 1
+      - path: imp_arma/root/hip/spine/neck/head/jaw
+        weight: 1
+      - path: imp_arma/root/hip/spine/neck/head/jaw/jaw_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_index1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_index1.L/f_index2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_index1.L/f_index2.L/f_index3.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_index1.L/f_index2.L/f_index3.L/f_index3.L_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_middle1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_middle1.L/f_middle2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_middle1.L/f_middle2.L/f_middle3.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_middle1.L/f_middle2.L/f_middle3.L/f_middle3.L_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_ring1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_ring1.L/f_ring2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_ring1.L/f_ring2.L/f_ring3.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_ring1.L/f_ring2.L/f_ring3.L/f_ring3.L_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_thumb1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_thumb1.L/f_thumb2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_thumb1.L/f_thumb2.L/f_thumb2.L_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_index1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_index1.R/f_index2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_index1.R/f_index2.R/f_index3.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_index1.R/f_index2.R/f_index3.R/f_index3.R_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_middle1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_middle1.R/f_middle2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_middle1.R/f_middle2.R/f_middle3.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_middle1.R/f_middle2.R/f_middle3.R/f_middle3.R_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_ring1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_ring1.R/f_ring2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_ring1.R/f_ring2.R/f_ring3.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_ring1.R/f_ring2.R/f_ring3.R/f_ring3.R_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_thumb1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_thumb1.R/f_thumb2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_thumb1.R/f_thumb2.R/f_thumb2.R_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f1_1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f1_1.L/wing_f1_2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f1_1.L/wing_f1_2.L/wing_f1_2.L_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f2_1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f2_1.L/wing_f2_2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f2_1.L/wing_f2_2.L/wing_f2_2.L_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f3_1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f3_1.L/wing_f3_2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f3_1.L/wing_f3_2.L/wing_f3_2.L_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f1_1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f1_1.R/wing_f1_2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f1_1.R/wing_f1_2.R/wing_f1_2.R_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f2_1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f2_1.R/wing_f2_2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f2_1.R/wing_f2_2.R/wing_f2_2.R_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f3_1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f3_1.R/wing_f3_2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f3_1.R/wing_f3_2.R/wing_f3_2.R_end
+        weight: 1
+      - path: imp_arma/root/hip/tail1
+        weight: 1
+      - path: imp_arma/root/hip/tail1/tail2
+        weight: 1
+      - path: imp_arma/root/hip/tail1/tail2/tail3
+        weight: 1
+      - path: imp_arma/root/hip/tail1/tail2/tail3/tail3_end
+        weight: 1
+      - path: imp_arma/root/IK_arm.L
+        weight: 1
+      - path: imp_arma/root/IK_arm.L/IK_elbow.L
+        weight: 1
+      - path: imp_arma/root/IK_arm.L/IK_elbow.L/IK_elbow.L_end
+        weight: 1
+      - path: imp_arma/root/IK_arm.R
+        weight: 1
+      - path: imp_arma/root/IK_arm.R/IK_elbow.R
+        weight: 1
+      - path: imp_arma/root/IK_arm.R/IK_elbow.R/IK_elbow.R_end
+        weight: 1
+      - path: imp_arma/root/IK_wing.L
+        weight: 1
+      - path: imp_arma/root/IK_wing.L/IK_wing_direct.L
+        weight: 1
+      - path: imp_arma/root/IK_wing.L/IK_wing_direct.L/IK_wing_direct.L_end
+        weight: 1
+      - path: imp_arma/root/IK_wing.R
+        weight: 1
+      - path: imp_arma/root/IK_wing.R/IK_wing_direct.R
+        weight: 1
+      - path: imp_arma/root/IK_wing.R/IK_wing_direct.R/IK_wing_direct.R_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: imp_attack2
+      takeName: imp_arma|attack2
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 32
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: imp
+        weight: 1
+      - path: imp_arma
+        weight: 1
+      - path: imp_arma/root
+        weight: 1
+      - path: imp_arma/root/hip
+        weight: 1
+      - path: imp_arma/root/hip/spine
+        weight: 1
+      - path: imp_arma/root/hip/spine/neck
+        weight: 1
+      - path: imp_arma/root/hip/spine/neck/head
+        weight: 1
+      - path: imp_arma/root/hip/spine/neck/head/jaw
+        weight: 1
+      - path: imp_arma/root/hip/spine/neck/head/jaw/jaw_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_index1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_index1.L/f_index2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_index1.L/f_index2.L/f_index3.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_index1.L/f_index2.L/f_index3.L/f_index3.L_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_middle1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_middle1.L/f_middle2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_middle1.L/f_middle2.L/f_middle3.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_middle1.L/f_middle2.L/f_middle3.L/f_middle3.L_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_ring1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_ring1.L/f_ring2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_ring1.L/f_ring2.L/f_ring3.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_ring1.L/f_ring2.L/f_ring3.L/f_ring3.L_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_thumb1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_thumb1.L/f_thumb2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_thumb1.L/f_thumb2.L/f_thumb2.L_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_index1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_index1.R/f_index2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_index1.R/f_index2.R/f_index3.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_index1.R/f_index2.R/f_index3.R/f_index3.R_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_middle1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_middle1.R/f_middle2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_middle1.R/f_middle2.R/f_middle3.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_middle1.R/f_middle2.R/f_middle3.R/f_middle3.R_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_ring1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_ring1.R/f_ring2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_ring1.R/f_ring2.R/f_ring3.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_ring1.R/f_ring2.R/f_ring3.R/f_ring3.R_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_thumb1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_thumb1.R/f_thumb2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_thumb1.R/f_thumb2.R/f_thumb2.R_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f1_1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f1_1.L/wing_f1_2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f1_1.L/wing_f1_2.L/wing_f1_2.L_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f2_1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f2_1.L/wing_f2_2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f2_1.L/wing_f2_2.L/wing_f2_2.L_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f3_1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f3_1.L/wing_f3_2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f3_1.L/wing_f3_2.L/wing_f3_2.L_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f1_1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f1_1.R/wing_f1_2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f1_1.R/wing_f1_2.R/wing_f1_2.R_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f2_1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f2_1.R/wing_f2_2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f2_1.R/wing_f2_2.R/wing_f2_2.R_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f3_1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f3_1.R/wing_f3_2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f3_1.R/wing_f3_2.R/wing_f3_2.R_end
+        weight: 1
+      - path: imp_arma/root/hip/tail1
+        weight: 1
+      - path: imp_arma/root/hip/tail1/tail2
+        weight: 1
+      - path: imp_arma/root/hip/tail1/tail2/tail3
+        weight: 1
+      - path: imp_arma/root/hip/tail1/tail2/tail3/tail3_end
+        weight: 1
+      - path: imp_arma/root/IK_arm.L
+        weight: 1
+      - path: imp_arma/root/IK_arm.L/IK_elbow.L
+        weight: 1
+      - path: imp_arma/root/IK_arm.L/IK_elbow.L/IK_elbow.L_end
+        weight: 1
+      - path: imp_arma/root/IK_arm.R
+        weight: 1
+      - path: imp_arma/root/IK_arm.R/IK_elbow.R
+        weight: 1
+      - path: imp_arma/root/IK_arm.R/IK_elbow.R/IK_elbow.R_end
+        weight: 1
+      - path: imp_arma/root/IK_wing.L
+        weight: 1
+      - path: imp_arma/root/IK_wing.L/IK_wing_direct.L
+        weight: 1
+      - path: imp_arma/root/IK_wing.L/IK_wing_direct.L/IK_wing_direct.L_end
+        weight: 1
+      - path: imp_arma/root/IK_wing.R
+        weight: 1
+      - path: imp_arma/root/IK_wing.R/IK_wing_direct.R
+        weight: 1
+      - path: imp_arma/root/IK_wing.R/IK_wing_direct.R/IK_wing_direct.R_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: imp_cast
+      takeName: imp_arma|cast
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: imp
+        weight: 1
+      - path: imp_arma
+        weight: 1
+      - path: imp_arma/root
+        weight: 1
+      - path: imp_arma/root/hip
+        weight: 1
+      - path: imp_arma/root/hip/spine
+        weight: 1
+      - path: imp_arma/root/hip/spine/neck
+        weight: 1
+      - path: imp_arma/root/hip/spine/neck/head
+        weight: 1
+      - path: imp_arma/root/hip/spine/neck/head/jaw
+        weight: 1
+      - path: imp_arma/root/hip/spine/neck/head/jaw/jaw_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_index1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_index1.L/f_index2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_index1.L/f_index2.L/f_index3.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_index1.L/f_index2.L/f_index3.L/f_index3.L_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_middle1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_middle1.L/f_middle2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_middle1.L/f_middle2.L/f_middle3.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_middle1.L/f_middle2.L/f_middle3.L/f_middle3.L_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_ring1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_ring1.L/f_ring2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_ring1.L/f_ring2.L/f_ring3.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_ring1.L/f_ring2.L/f_ring3.L/f_ring3.L_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_thumb1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_thumb1.L/f_thumb2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_thumb1.L/f_thumb2.L/f_thumb2.L_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_index1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_index1.R/f_index2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_index1.R/f_index2.R/f_index3.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_index1.R/f_index2.R/f_index3.R/f_index3.R_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_middle1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_middle1.R/f_middle2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_middle1.R/f_middle2.R/f_middle3.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_middle1.R/f_middle2.R/f_middle3.R/f_middle3.R_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_ring1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_ring1.R/f_ring2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_ring1.R/f_ring2.R/f_ring3.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_ring1.R/f_ring2.R/f_ring3.R/f_ring3.R_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_thumb1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_thumb1.R/f_thumb2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_thumb1.R/f_thumb2.R/f_thumb2.R_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f1_1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f1_1.L/wing_f1_2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f1_1.L/wing_f1_2.L/wing_f1_2.L_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f2_1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f2_1.L/wing_f2_2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f2_1.L/wing_f2_2.L/wing_f2_2.L_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f3_1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f3_1.L/wing_f3_2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f3_1.L/wing_f3_2.L/wing_f3_2.L_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f1_1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f1_1.R/wing_f1_2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f1_1.R/wing_f1_2.R/wing_f1_2.R_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f2_1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f2_1.R/wing_f2_2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f2_1.R/wing_f2_2.R/wing_f2_2.R_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f3_1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f3_1.R/wing_f3_2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f3_1.R/wing_f3_2.R/wing_f3_2.R_end
+        weight: 1
+      - path: imp_arma/root/hip/tail1
+        weight: 1
+      - path: imp_arma/root/hip/tail1/tail2
+        weight: 1
+      - path: imp_arma/root/hip/tail1/tail2/tail3
+        weight: 1
+      - path: imp_arma/root/hip/tail1/tail2/tail3/tail3_end
+        weight: 1
+      - path: imp_arma/root/IK_arm.L
+        weight: 1
+      - path: imp_arma/root/IK_arm.L/IK_elbow.L
+        weight: 1
+      - path: imp_arma/root/IK_arm.L/IK_elbow.L/IK_elbow.L_end
+        weight: 1
+      - path: imp_arma/root/IK_arm.R
+        weight: 1
+      - path: imp_arma/root/IK_arm.R/IK_elbow.R
+        weight: 1
+      - path: imp_arma/root/IK_arm.R/IK_elbow.R/IK_elbow.R_end
+        weight: 1
+      - path: imp_arma/root/IK_wing.L
+        weight: 1
+      - path: imp_arma/root/IK_wing.L/IK_wing_direct.L
+        weight: 1
+      - path: imp_arma/root/IK_wing.L/IK_wing_direct.L/IK_wing_direct.L_end
+        weight: 1
+      - path: imp_arma/root/IK_wing.R
+        weight: 1
+      - path: imp_arma/root/IK_wing.R/IK_wing_direct.R
+        weight: 1
+      - path: imp_arma/root/IK_wing.R/IK_wing_direct.R/IK_wing_direct.R_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: imp_death1
+      takeName: imp_arma|death1
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 43
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: imp
+        weight: 1
+      - path: imp_arma
+        weight: 1
+      - path: imp_arma/root
+        weight: 1
+      - path: imp_arma/root/hip
+        weight: 1
+      - path: imp_arma/root/hip/spine
+        weight: 1
+      - path: imp_arma/root/hip/spine/neck
+        weight: 1
+      - path: imp_arma/root/hip/spine/neck/head
+        weight: 1
+      - path: imp_arma/root/hip/spine/neck/head/jaw
+        weight: 1
+      - path: imp_arma/root/hip/spine/neck/head/jaw/jaw_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_index1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_index1.L/f_index2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_index1.L/f_index2.L/f_index3.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_index1.L/f_index2.L/f_index3.L/f_index3.L_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_middle1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_middle1.L/f_middle2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_middle1.L/f_middle2.L/f_middle3.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_middle1.L/f_middle2.L/f_middle3.L/f_middle3.L_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_ring1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_ring1.L/f_ring2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_ring1.L/f_ring2.L/f_ring3.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_ring1.L/f_ring2.L/f_ring3.L/f_ring3.L_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_thumb1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_thumb1.L/f_thumb2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_thumb1.L/f_thumb2.L/f_thumb2.L_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_index1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_index1.R/f_index2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_index1.R/f_index2.R/f_index3.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_index1.R/f_index2.R/f_index3.R/f_index3.R_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_middle1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_middle1.R/f_middle2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_middle1.R/f_middle2.R/f_middle3.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_middle1.R/f_middle2.R/f_middle3.R/f_middle3.R_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_ring1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_ring1.R/f_ring2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_ring1.R/f_ring2.R/f_ring3.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_ring1.R/f_ring2.R/f_ring3.R/f_ring3.R_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_thumb1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_thumb1.R/f_thumb2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_thumb1.R/f_thumb2.R/f_thumb2.R_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f1_1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f1_1.L/wing_f1_2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f1_1.L/wing_f1_2.L/wing_f1_2.L_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f2_1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f2_1.L/wing_f2_2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f2_1.L/wing_f2_2.L/wing_f2_2.L_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f3_1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f3_1.L/wing_f3_2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f3_1.L/wing_f3_2.L/wing_f3_2.L_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f1_1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f1_1.R/wing_f1_2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f1_1.R/wing_f1_2.R/wing_f1_2.R_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f2_1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f2_1.R/wing_f2_2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f2_1.R/wing_f2_2.R/wing_f2_2.R_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f3_1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f3_1.R/wing_f3_2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f3_1.R/wing_f3_2.R/wing_f3_2.R_end
+        weight: 1
+      - path: imp_arma/root/hip/tail1
+        weight: 1
+      - path: imp_arma/root/hip/tail1/tail2
+        weight: 1
+      - path: imp_arma/root/hip/tail1/tail2/tail3
+        weight: 1
+      - path: imp_arma/root/hip/tail1/tail2/tail3/tail3_end
+        weight: 1
+      - path: imp_arma/root/IK_arm.L
+        weight: 1
+      - path: imp_arma/root/IK_arm.L/IK_elbow.L
+        weight: 1
+      - path: imp_arma/root/IK_arm.L/IK_elbow.L/IK_elbow.L_end
+        weight: 1
+      - path: imp_arma/root/IK_arm.R
+        weight: 1
+      - path: imp_arma/root/IK_arm.R/IK_elbow.R
+        weight: 1
+      - path: imp_arma/root/IK_arm.R/IK_elbow.R/IK_elbow.R_end
+        weight: 1
+      - path: imp_arma/root/IK_wing.L
+        weight: 1
+      - path: imp_arma/root/IK_wing.L/IK_wing_direct.L
+        weight: 1
+      - path: imp_arma/root/IK_wing.L/IK_wing_direct.L/IK_wing_direct.L_end
+        weight: 1
+      - path: imp_arma/root/IK_wing.R
+        weight: 1
+      - path: imp_arma/root/IK_wing.R/IK_wing_direct.R
+        weight: 1
+      - path: imp_arma/root/IK_wing.R/IK_wing_direct.R/IK_wing_direct.R_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: imp_death2
+      takeName: imp_arma|death2
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 41
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: imp
+        weight: 1
+      - path: imp_arma
+        weight: 1
+      - path: imp_arma/root
+        weight: 1
+      - path: imp_arma/root/hip
+        weight: 1
+      - path: imp_arma/root/hip/spine
+        weight: 1
+      - path: imp_arma/root/hip/spine/neck
+        weight: 1
+      - path: imp_arma/root/hip/spine/neck/head
+        weight: 1
+      - path: imp_arma/root/hip/spine/neck/head/jaw
+        weight: 1
+      - path: imp_arma/root/hip/spine/neck/head/jaw/jaw_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_index1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_index1.L/f_index2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_index1.L/f_index2.L/f_index3.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_index1.L/f_index2.L/f_index3.L/f_index3.L_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_middle1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_middle1.L/f_middle2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_middle1.L/f_middle2.L/f_middle3.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_middle1.L/f_middle2.L/f_middle3.L/f_middle3.L_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_ring1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_ring1.L/f_ring2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_ring1.L/f_ring2.L/f_ring3.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_ring1.L/f_ring2.L/f_ring3.L/f_ring3.L_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_thumb1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_thumb1.L/f_thumb2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_thumb1.L/f_thumb2.L/f_thumb2.L_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_index1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_index1.R/f_index2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_index1.R/f_index2.R/f_index3.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_index1.R/f_index2.R/f_index3.R/f_index3.R_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_middle1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_middle1.R/f_middle2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_middle1.R/f_middle2.R/f_middle3.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_middle1.R/f_middle2.R/f_middle3.R/f_middle3.R_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_ring1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_ring1.R/f_ring2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_ring1.R/f_ring2.R/f_ring3.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_ring1.R/f_ring2.R/f_ring3.R/f_ring3.R_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_thumb1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_thumb1.R/f_thumb2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_thumb1.R/f_thumb2.R/f_thumb2.R_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f1_1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f1_1.L/wing_f1_2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f1_1.L/wing_f1_2.L/wing_f1_2.L_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f2_1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f2_1.L/wing_f2_2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f2_1.L/wing_f2_2.L/wing_f2_2.L_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f3_1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f3_1.L/wing_f3_2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f3_1.L/wing_f3_2.L/wing_f3_2.L_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f1_1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f1_1.R/wing_f1_2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f1_1.R/wing_f1_2.R/wing_f1_2.R_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f2_1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f2_1.R/wing_f2_2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f2_1.R/wing_f2_2.R/wing_f2_2.R_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f3_1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f3_1.R/wing_f3_2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f3_1.R/wing_f3_2.R/wing_f3_2.R_end
+        weight: 1
+      - path: imp_arma/root/hip/tail1
+        weight: 1
+      - path: imp_arma/root/hip/tail1/tail2
+        weight: 1
+      - path: imp_arma/root/hip/tail1/tail2/tail3
+        weight: 1
+      - path: imp_arma/root/hip/tail1/tail2/tail3/tail3_end
+        weight: 1
+      - path: imp_arma/root/IK_arm.L
+        weight: 1
+      - path: imp_arma/root/IK_arm.L/IK_elbow.L
+        weight: 1
+      - path: imp_arma/root/IK_arm.L/IK_elbow.L/IK_elbow.L_end
+        weight: 1
+      - path: imp_arma/root/IK_arm.R
+        weight: 1
+      - path: imp_arma/root/IK_arm.R/IK_elbow.R
+        weight: 1
+      - path: imp_arma/root/IK_arm.R/IK_elbow.R/IK_elbow.R_end
+        weight: 1
+      - path: imp_arma/root/IK_wing.L
+        weight: 1
+      - path: imp_arma/root/IK_wing.L/IK_wing_direct.L
+        weight: 1
+      - path: imp_arma/root/IK_wing.L/IK_wing_direct.L/IK_wing_direct.L_end
+        weight: 1
+      - path: imp_arma/root/IK_wing.R
+        weight: 1
+      - path: imp_arma/root/IK_wing.R/IK_wing_direct.R
+        weight: 1
+      - path: imp_arma/root/IK_wing.R/IK_wing_direct.R/IK_wing_direct.R_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: imp_hit_1
+      takeName: imp_arma|hit_1
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 32
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: imp
+        weight: 1
+      - path: imp_arma
+        weight: 1
+      - path: imp_arma/root
+        weight: 1
+      - path: imp_arma/root/hip
+        weight: 1
+      - path: imp_arma/root/hip/spine
+        weight: 1
+      - path: imp_arma/root/hip/spine/neck
+        weight: 1
+      - path: imp_arma/root/hip/spine/neck/head
+        weight: 1
+      - path: imp_arma/root/hip/spine/neck/head/jaw
+        weight: 1
+      - path: imp_arma/root/hip/spine/neck/head/jaw/jaw_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_index1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_index1.L/f_index2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_index1.L/f_index2.L/f_index3.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_index1.L/f_index2.L/f_index3.L/f_index3.L_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_middle1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_middle1.L/f_middle2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_middle1.L/f_middle2.L/f_middle3.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_middle1.L/f_middle2.L/f_middle3.L/f_middle3.L_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_ring1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_ring1.L/f_ring2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_ring1.L/f_ring2.L/f_ring3.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_ring1.L/f_ring2.L/f_ring3.L/f_ring3.L_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_thumb1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_thumb1.L/f_thumb2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_thumb1.L/f_thumb2.L/f_thumb2.L_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_index1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_index1.R/f_index2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_index1.R/f_index2.R/f_index3.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_index1.R/f_index2.R/f_index3.R/f_index3.R_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_middle1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_middle1.R/f_middle2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_middle1.R/f_middle2.R/f_middle3.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_middle1.R/f_middle2.R/f_middle3.R/f_middle3.R_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_ring1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_ring1.R/f_ring2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_ring1.R/f_ring2.R/f_ring3.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_ring1.R/f_ring2.R/f_ring3.R/f_ring3.R_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_thumb1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_thumb1.R/f_thumb2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_thumb1.R/f_thumb2.R/f_thumb2.R_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f1_1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f1_1.L/wing_f1_2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f1_1.L/wing_f1_2.L/wing_f1_2.L_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f2_1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f2_1.L/wing_f2_2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f2_1.L/wing_f2_2.L/wing_f2_2.L_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f3_1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f3_1.L/wing_f3_2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f3_1.L/wing_f3_2.L/wing_f3_2.L_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f1_1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f1_1.R/wing_f1_2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f1_1.R/wing_f1_2.R/wing_f1_2.R_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f2_1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f2_1.R/wing_f2_2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f2_1.R/wing_f2_2.R/wing_f2_2.R_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f3_1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f3_1.R/wing_f3_2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f3_1.R/wing_f3_2.R/wing_f3_2.R_end
+        weight: 1
+      - path: imp_arma/root/hip/tail1
+        weight: 1
+      - path: imp_arma/root/hip/tail1/tail2
+        weight: 1
+      - path: imp_arma/root/hip/tail1/tail2/tail3
+        weight: 1
+      - path: imp_arma/root/hip/tail1/tail2/tail3/tail3_end
+        weight: 1
+      - path: imp_arma/root/IK_arm.L
+        weight: 1
+      - path: imp_arma/root/IK_arm.L/IK_elbow.L
+        weight: 1
+      - path: imp_arma/root/IK_arm.L/IK_elbow.L/IK_elbow.L_end
+        weight: 1
+      - path: imp_arma/root/IK_arm.R
+        weight: 1
+      - path: imp_arma/root/IK_arm.R/IK_elbow.R
+        weight: 1
+      - path: imp_arma/root/IK_arm.R/IK_elbow.R/IK_elbow.R_end
+        weight: 1
+      - path: imp_arma/root/IK_wing.L
+        weight: 1
+      - path: imp_arma/root/IK_wing.L/IK_wing_direct.L
+        weight: 1
+      - path: imp_arma/root/IK_wing.L/IK_wing_direct.L/IK_wing_direct.L_end
+        weight: 1
+      - path: imp_arma/root/IK_wing.R
+        weight: 1
+      - path: imp_arma/root/IK_wing.R/IK_wing_direct.R
+        weight: 1
+      - path: imp_arma/root/IK_wing.R/IK_wing_direct.R/IK_wing_direct.R_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: imp_hit_2
+      takeName: imp_arma|hit_2
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 32
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: imp
+        weight: 1
+      - path: imp_arma
+        weight: 1
+      - path: imp_arma/root
+        weight: 1
+      - path: imp_arma/root/hip
+        weight: 1
+      - path: imp_arma/root/hip/spine
+        weight: 1
+      - path: imp_arma/root/hip/spine/neck
+        weight: 1
+      - path: imp_arma/root/hip/spine/neck/head
+        weight: 1
+      - path: imp_arma/root/hip/spine/neck/head/jaw
+        weight: 1
+      - path: imp_arma/root/hip/spine/neck/head/jaw/jaw_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_index1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_index1.L/f_index2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_index1.L/f_index2.L/f_index3.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_index1.L/f_index2.L/f_index3.L/f_index3.L_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_middle1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_middle1.L/f_middle2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_middle1.L/f_middle2.L/f_middle3.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_middle1.L/f_middle2.L/f_middle3.L/f_middle3.L_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_ring1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_ring1.L/f_ring2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_ring1.L/f_ring2.L/f_ring3.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_ring1.L/f_ring2.L/f_ring3.L/f_ring3.L_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_thumb1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_thumb1.L/f_thumb2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_thumb1.L/f_thumb2.L/f_thumb2.L_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_index1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_index1.R/f_index2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_index1.R/f_index2.R/f_index3.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_index1.R/f_index2.R/f_index3.R/f_index3.R_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_middle1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_middle1.R/f_middle2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_middle1.R/f_middle2.R/f_middle3.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_middle1.R/f_middle2.R/f_middle3.R/f_middle3.R_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_ring1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_ring1.R/f_ring2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_ring1.R/f_ring2.R/f_ring3.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_ring1.R/f_ring2.R/f_ring3.R/f_ring3.R_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_thumb1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_thumb1.R/f_thumb2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_thumb1.R/f_thumb2.R/f_thumb2.R_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f1_1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f1_1.L/wing_f1_2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f1_1.L/wing_f1_2.L/wing_f1_2.L_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f2_1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f2_1.L/wing_f2_2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f2_1.L/wing_f2_2.L/wing_f2_2.L_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f3_1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f3_1.L/wing_f3_2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f3_1.L/wing_f3_2.L/wing_f3_2.L_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f1_1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f1_1.R/wing_f1_2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f1_1.R/wing_f1_2.R/wing_f1_2.R_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f2_1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f2_1.R/wing_f2_2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f2_1.R/wing_f2_2.R/wing_f2_2.R_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f3_1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f3_1.R/wing_f3_2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f3_1.R/wing_f3_2.R/wing_f3_2.R_end
+        weight: 1
+      - path: imp_arma/root/hip/tail1
+        weight: 1
+      - path: imp_arma/root/hip/tail1/tail2
+        weight: 1
+      - path: imp_arma/root/hip/tail1/tail2/tail3
+        weight: 1
+      - path: imp_arma/root/hip/tail1/tail2/tail3/tail3_end
+        weight: 1
+      - path: imp_arma/root/IK_arm.L
+        weight: 1
+      - path: imp_arma/root/IK_arm.L/IK_elbow.L
+        weight: 1
+      - path: imp_arma/root/IK_arm.L/IK_elbow.L/IK_elbow.L_end
+        weight: 1
+      - path: imp_arma/root/IK_arm.R
+        weight: 1
+      - path: imp_arma/root/IK_arm.R/IK_elbow.R
+        weight: 1
+      - path: imp_arma/root/IK_arm.R/IK_elbow.R/IK_elbow.R_end
+        weight: 1
+      - path: imp_arma/root/IK_wing.L
+        weight: 1
+      - path: imp_arma/root/IK_wing.L/IK_wing_direct.L
+        weight: 1
+      - path: imp_arma/root/IK_wing.L/IK_wing_direct.L/IK_wing_direct.L_end
+        weight: 1
+      - path: imp_arma/root/IK_wing.R
+        weight: 1
+      - path: imp_arma/root/IK_wing.R/IK_wing_direct.R
+        weight: 1
+      - path: imp_arma/root/IK_wing.R/IK_wing_direct.R/IK_wing_direct.R_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: imp_idle_battle
+      takeName: imp_arma|idle_battle
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 32
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: imp
+        weight: 1
+      - path: imp_arma
+        weight: 1
+      - path: imp_arma/root
+        weight: 1
+      - path: imp_arma/root/hip
+        weight: 1
+      - path: imp_arma/root/hip/spine
+        weight: 1
+      - path: imp_arma/root/hip/spine/neck
+        weight: 1
+      - path: imp_arma/root/hip/spine/neck/head
+        weight: 1
+      - path: imp_arma/root/hip/spine/neck/head/jaw
+        weight: 1
+      - path: imp_arma/root/hip/spine/neck/head/jaw/jaw_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_index1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_index1.L/f_index2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_index1.L/f_index2.L/f_index3.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_index1.L/f_index2.L/f_index3.L/f_index3.L_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_middle1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_middle1.L/f_middle2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_middle1.L/f_middle2.L/f_middle3.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_middle1.L/f_middle2.L/f_middle3.L/f_middle3.L_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_ring1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_ring1.L/f_ring2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_ring1.L/f_ring2.L/f_ring3.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_ring1.L/f_ring2.L/f_ring3.L/f_ring3.L_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_thumb1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_thumb1.L/f_thumb2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_thumb1.L/f_thumb2.L/f_thumb2.L_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_index1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_index1.R/f_index2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_index1.R/f_index2.R/f_index3.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_index1.R/f_index2.R/f_index3.R/f_index3.R_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_middle1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_middle1.R/f_middle2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_middle1.R/f_middle2.R/f_middle3.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_middle1.R/f_middle2.R/f_middle3.R/f_middle3.R_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_ring1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_ring1.R/f_ring2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_ring1.R/f_ring2.R/f_ring3.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_ring1.R/f_ring2.R/f_ring3.R/f_ring3.R_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_thumb1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_thumb1.R/f_thumb2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_thumb1.R/f_thumb2.R/f_thumb2.R_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f1_1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f1_1.L/wing_f1_2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f1_1.L/wing_f1_2.L/wing_f1_2.L_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f2_1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f2_1.L/wing_f2_2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f2_1.L/wing_f2_2.L/wing_f2_2.L_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f3_1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f3_1.L/wing_f3_2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f3_1.L/wing_f3_2.L/wing_f3_2.L_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f1_1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f1_1.R/wing_f1_2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f1_1.R/wing_f1_2.R/wing_f1_2.R_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f2_1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f2_1.R/wing_f2_2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f2_1.R/wing_f2_2.R/wing_f2_2.R_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f3_1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f3_1.R/wing_f3_2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f3_1.R/wing_f3_2.R/wing_f3_2.R_end
+        weight: 1
+      - path: imp_arma/root/hip/tail1
+        weight: 1
+      - path: imp_arma/root/hip/tail1/tail2
+        weight: 1
+      - path: imp_arma/root/hip/tail1/tail2/tail3
+        weight: 1
+      - path: imp_arma/root/hip/tail1/tail2/tail3/tail3_end
+        weight: 1
+      - path: imp_arma/root/IK_arm.L
+        weight: 1
+      - path: imp_arma/root/IK_arm.L/IK_elbow.L
+        weight: 1
+      - path: imp_arma/root/IK_arm.L/IK_elbow.L/IK_elbow.L_end
+        weight: 1
+      - path: imp_arma/root/IK_arm.R
+        weight: 1
+      - path: imp_arma/root/IK_arm.R/IK_elbow.R
+        weight: 1
+      - path: imp_arma/root/IK_arm.R/IK_elbow.R/IK_elbow.R_end
+        weight: 1
+      - path: imp_arma/root/IK_wing.L
+        weight: 1
+      - path: imp_arma/root/IK_wing.L/IK_wing_direct.L
+        weight: 1
+      - path: imp_arma/root/IK_wing.L/IK_wing_direct.L/IK_wing_direct.L_end
+        weight: 1
+      - path: imp_arma/root/IK_wing.R
+        weight: 1
+      - path: imp_arma/root/IK_wing.R/IK_wing_direct.R
+        weight: 1
+      - path: imp_arma/root/IK_wing.R/IK_wing_direct.R/IK_wing_direct.R_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: imp_idle
+      takeName: imp_arma|idle
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 45
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: imp
+        weight: 1
+      - path: imp_arma
+        weight: 1
+      - path: imp_arma/root
+        weight: 1
+      - path: imp_arma/root/hip
+        weight: 1
+      - path: imp_arma/root/hip/spine
+        weight: 1
+      - path: imp_arma/root/hip/spine/neck
+        weight: 1
+      - path: imp_arma/root/hip/spine/neck/head
+        weight: 1
+      - path: imp_arma/root/hip/spine/neck/head/jaw
+        weight: 1
+      - path: imp_arma/root/hip/spine/neck/head/jaw/jaw_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_index1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_index1.L/f_index2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_index1.L/f_index2.L/f_index3.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_index1.L/f_index2.L/f_index3.L/f_index3.L_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_middle1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_middle1.L/f_middle2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_middle1.L/f_middle2.L/f_middle3.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_middle1.L/f_middle2.L/f_middle3.L/f_middle3.L_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_ring1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_ring1.L/f_ring2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_ring1.L/f_ring2.L/f_ring3.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_ring1.L/f_ring2.L/f_ring3.L/f_ring3.L_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_thumb1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_thumb1.L/f_thumb2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_thumb1.L/f_thumb2.L/f_thumb2.L_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_index1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_index1.R/f_index2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_index1.R/f_index2.R/f_index3.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_index1.R/f_index2.R/f_index3.R/f_index3.R_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_middle1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_middle1.R/f_middle2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_middle1.R/f_middle2.R/f_middle3.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_middle1.R/f_middle2.R/f_middle3.R/f_middle3.R_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_ring1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_ring1.R/f_ring2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_ring1.R/f_ring2.R/f_ring3.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_ring1.R/f_ring2.R/f_ring3.R/f_ring3.R_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_thumb1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_thumb1.R/f_thumb2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_thumb1.R/f_thumb2.R/f_thumb2.R_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f1_1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f1_1.L/wing_f1_2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f1_1.L/wing_f1_2.L/wing_f1_2.L_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f2_1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f2_1.L/wing_f2_2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f2_1.L/wing_f2_2.L/wing_f2_2.L_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f3_1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f3_1.L/wing_f3_2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f3_1.L/wing_f3_2.L/wing_f3_2.L_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f1_1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f1_1.R/wing_f1_2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f1_1.R/wing_f1_2.R/wing_f1_2.R_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f2_1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f2_1.R/wing_f2_2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f2_1.R/wing_f2_2.R/wing_f2_2.R_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f3_1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f3_1.R/wing_f3_2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f3_1.R/wing_f3_2.R/wing_f3_2.R_end
+        weight: 1
+      - path: imp_arma/root/hip/tail1
+        weight: 1
+      - path: imp_arma/root/hip/tail1/tail2
+        weight: 1
+      - path: imp_arma/root/hip/tail1/tail2/tail3
+        weight: 1
+      - path: imp_arma/root/hip/tail1/tail2/tail3/tail3_end
+        weight: 1
+      - path: imp_arma/root/IK_arm.L
+        weight: 1
+      - path: imp_arma/root/IK_arm.L/IK_elbow.L
+        weight: 1
+      - path: imp_arma/root/IK_arm.L/IK_elbow.L/IK_elbow.L_end
+        weight: 1
+      - path: imp_arma/root/IK_arm.R
+        weight: 1
+      - path: imp_arma/root/IK_arm.R/IK_elbow.R
+        weight: 1
+      - path: imp_arma/root/IK_arm.R/IK_elbow.R/IK_elbow.R_end
+        weight: 1
+      - path: imp_arma/root/IK_wing.L
+        weight: 1
+      - path: imp_arma/root/IK_wing.L/IK_wing_direct.L
+        weight: 1
+      - path: imp_arma/root/IK_wing.L/IK_wing_direct.L/IK_wing_direct.L_end
+        weight: 1
+      - path: imp_arma/root/IK_wing.R
+        weight: 1
+      - path: imp_arma/root/IK_wing.R/IK_wing_direct.R
+        weight: 1
+      - path: imp_arma/root/IK_wing.R/IK_wing_direct.R/IK_wing_direct.R_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: imp_run
+      takeName: imp_arma|run
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 26
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: imp
+        weight: 1
+      - path: imp_arma
+        weight: 1
+      - path: imp_arma/root
+        weight: 1
+      - path: imp_arma/root/hip
+        weight: 1
+      - path: imp_arma/root/hip/spine
+        weight: 1
+      - path: imp_arma/root/hip/spine/neck
+        weight: 1
+      - path: imp_arma/root/hip/spine/neck/head
+        weight: 1
+      - path: imp_arma/root/hip/spine/neck/head/jaw
+        weight: 1
+      - path: imp_arma/root/hip/spine/neck/head/jaw/jaw_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_index1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_index1.L/f_index2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_index1.L/f_index2.L/f_index3.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_index1.L/f_index2.L/f_index3.L/f_index3.L_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_middle1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_middle1.L/f_middle2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_middle1.L/f_middle2.L/f_middle3.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_middle1.L/f_middle2.L/f_middle3.L/f_middle3.L_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_ring1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_ring1.L/f_ring2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_ring1.L/f_ring2.L/f_ring3.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_ring1.L/f_ring2.L/f_ring3.L/f_ring3.L_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_thumb1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_thumb1.L/f_thumb2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_thumb1.L/f_thumb2.L/f_thumb2.L_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_index1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_index1.R/f_index2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_index1.R/f_index2.R/f_index3.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_index1.R/f_index2.R/f_index3.R/f_index3.R_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_middle1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_middle1.R/f_middle2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_middle1.R/f_middle2.R/f_middle3.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_middle1.R/f_middle2.R/f_middle3.R/f_middle3.R_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_ring1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_ring1.R/f_ring2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_ring1.R/f_ring2.R/f_ring3.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_ring1.R/f_ring2.R/f_ring3.R/f_ring3.R_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_thumb1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_thumb1.R/f_thumb2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_thumb1.R/f_thumb2.R/f_thumb2.R_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f1_1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f1_1.L/wing_f1_2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f1_1.L/wing_f1_2.L/wing_f1_2.L_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f2_1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f2_1.L/wing_f2_2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f2_1.L/wing_f2_2.L/wing_f2_2.L_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f3_1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f3_1.L/wing_f3_2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f3_1.L/wing_f3_2.L/wing_f3_2.L_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f1_1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f1_1.R/wing_f1_2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f1_1.R/wing_f1_2.R/wing_f1_2.R_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f2_1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f2_1.R/wing_f2_2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f2_1.R/wing_f2_2.R/wing_f2_2.R_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f3_1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f3_1.R/wing_f3_2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f3_1.R/wing_f3_2.R/wing_f3_2.R_end
+        weight: 1
+      - path: imp_arma/root/hip/tail1
+        weight: 1
+      - path: imp_arma/root/hip/tail1/tail2
+        weight: 1
+      - path: imp_arma/root/hip/tail1/tail2/tail3
+        weight: 1
+      - path: imp_arma/root/hip/tail1/tail2/tail3/tail3_end
+        weight: 1
+      - path: imp_arma/root/IK_arm.L
+        weight: 1
+      - path: imp_arma/root/IK_arm.L/IK_elbow.L
+        weight: 1
+      - path: imp_arma/root/IK_arm.L/IK_elbow.L/IK_elbow.L_end
+        weight: 1
+      - path: imp_arma/root/IK_arm.R
+        weight: 1
+      - path: imp_arma/root/IK_arm.R/IK_elbow.R
+        weight: 1
+      - path: imp_arma/root/IK_arm.R/IK_elbow.R/IK_elbow.R_end
+        weight: 1
+      - path: imp_arma/root/IK_wing.L
+        weight: 1
+      - path: imp_arma/root/IK_wing.L/IK_wing_direct.L
+        weight: 1
+      - path: imp_arma/root/IK_wing.L/IK_wing_direct.L/IK_wing_direct.L_end
+        weight: 1
+      - path: imp_arma/root/IK_wing.R
+        weight: 1
+      - path: imp_arma/root/IK_wing.R/IK_wing_direct.R
+        weight: 1
+      - path: imp_arma/root/IK_wing.R/IK_wing_direct.R/IK_wing_direct.R_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: imp_walk
+      takeName: imp_arma|walk
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 32
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: imp
+        weight: 1
+      - path: imp_arma
+        weight: 1
+      - path: imp_arma/root
+        weight: 1
+      - path: imp_arma/root/hip
+        weight: 1
+      - path: imp_arma/root/hip/spine
+        weight: 1
+      - path: imp_arma/root/hip/spine/neck
+        weight: 1
+      - path: imp_arma/root/hip/spine/neck/head
+        weight: 1
+      - path: imp_arma/root/hip/spine/neck/head/jaw
+        weight: 1
+      - path: imp_arma/root/hip/spine/neck/head/jaw/jaw_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_index1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_index1.L/f_index2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_index1.L/f_index2.L/f_index3.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_index1.L/f_index2.L/f_index3.L/f_index3.L_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_middle1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_middle1.L/f_middle2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_middle1.L/f_middle2.L/f_middle3.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_middle1.L/f_middle2.L/f_middle3.L/f_middle3.L_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_ring1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_ring1.L/f_ring2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_ring1.L/f_ring2.L/f_ring3.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_ring1.L/f_ring2.L/f_ring3.L/f_ring3.L_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_thumb1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_thumb1.L/f_thumb2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_thumb1.L/f_thumb2.L/f_thumb2.L_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_index1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_index1.R/f_index2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_index1.R/f_index2.R/f_index3.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_index1.R/f_index2.R/f_index3.R/f_index3.R_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_middle1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_middle1.R/f_middle2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_middle1.R/f_middle2.R/f_middle3.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_middle1.R/f_middle2.R/f_middle3.R/f_middle3.R_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_ring1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_ring1.R/f_ring2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_ring1.R/f_ring2.R/f_ring3.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_ring1.R/f_ring2.R/f_ring3.R/f_ring3.R_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_thumb1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_thumb1.R/f_thumb2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_thumb1.R/f_thumb2.R/f_thumb2.R_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f1_1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f1_1.L/wing_f1_2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f1_1.L/wing_f1_2.L/wing_f1_2.L_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f2_1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f2_1.L/wing_f2_2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f2_1.L/wing_f2_2.L/wing_f2_2.L_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f3_1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f3_1.L/wing_f3_2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f3_1.L/wing_f3_2.L/wing_f3_2.L_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f1_1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f1_1.R/wing_f1_2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f1_1.R/wing_f1_2.R/wing_f1_2.R_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f2_1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f2_1.R/wing_f2_2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f2_1.R/wing_f2_2.R/wing_f2_2.R_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f3_1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f3_1.R/wing_f3_2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f3_1.R/wing_f3_2.R/wing_f3_2.R_end
+        weight: 1
+      - path: imp_arma/root/hip/tail1
+        weight: 1
+      - path: imp_arma/root/hip/tail1/tail2
+        weight: 1
+      - path: imp_arma/root/hip/tail1/tail2/tail3
+        weight: 1
+      - path: imp_arma/root/hip/tail1/tail2/tail3/tail3_end
+        weight: 1
+      - path: imp_arma/root/IK_arm.L
+        weight: 1
+      - path: imp_arma/root/IK_arm.L/IK_elbow.L
+        weight: 1
+      - path: imp_arma/root/IK_arm.L/IK_elbow.L/IK_elbow.L_end
+        weight: 1
+      - path: imp_arma/root/IK_arm.R
+        weight: 1
+      - path: imp_arma/root/IK_arm.R/IK_elbow.R
+        weight: 1
+      - path: imp_arma/root/IK_arm.R/IK_elbow.R/IK_elbow.R_end
+        weight: 1
+      - path: imp_arma/root/IK_wing.L
+        weight: 1
+      - path: imp_arma/root/IK_wing.L/IK_wing_direct.L
+        weight: 1
+      - path: imp_arma/root/IK_wing.L/IK_wing_direct.L/IK_wing_direct.L_end
+        weight: 1
+      - path: imp_arma/root/IK_wing.R
+        weight: 1
+      - path: imp_arma/root/IK_wing.R/IK_wing_direct.R
+        weight: 1
+      - path: imp_arma/root/IK_wing.R/IK_wing_direct.R/IK_wing_direct.R_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: imp_walk_back
+      takeName: imp_arma|walk_back
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 32
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: imp
+        weight: 1
+      - path: imp_arma
+        weight: 1
+      - path: imp_arma/root
+        weight: 1
+      - path: imp_arma/root/hip
+        weight: 1
+      - path: imp_arma/root/hip/spine
+        weight: 1
+      - path: imp_arma/root/hip/spine/neck
+        weight: 1
+      - path: imp_arma/root/hip/spine/neck/head
+        weight: 1
+      - path: imp_arma/root/hip/spine/neck/head/jaw
+        weight: 1
+      - path: imp_arma/root/hip/spine/neck/head/jaw/jaw_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_index1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_index1.L/f_index2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_index1.L/f_index2.L/f_index3.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_index1.L/f_index2.L/f_index3.L/f_index3.L_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_middle1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_middle1.L/f_middle2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_middle1.L/f_middle2.L/f_middle3.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_middle1.L/f_middle2.L/f_middle3.L/f_middle3.L_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_ring1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_ring1.L/f_ring2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_ring1.L/f_ring2.L/f_ring3.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_ring1.L/f_ring2.L/f_ring3.L/f_ring3.L_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_thumb1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_thumb1.L/f_thumb2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.L/arm1.L/arm2.L/hand.L/f_thumb1.L/f_thumb2.L/f_thumb2.L_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_index1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_index1.R/f_index2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_index1.R/f_index2.R/f_index3.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_index1.R/f_index2.R/f_index3.R/f_index3.R_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_middle1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_middle1.R/f_middle2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_middle1.R/f_middle2.R/f_middle3.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_middle1.R/f_middle2.R/f_middle3.R/f_middle3.R_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_ring1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_ring1.R/f_ring2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_ring1.R/f_ring2.R/f_ring3.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_ring1.R/f_ring2.R/f_ring3.R/f_ring3.R_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_thumb1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_thumb1.R/f_thumb2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/sholder.R/arm1.R/arm2.R/hand.R/f_thumb1.R/f_thumb2.R/f_thumb2.R_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f1_1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f1_1.L/wing_f1_2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f1_1.L/wing_f1_2.L/wing_f1_2.L_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f2_1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f2_1.L/wing_f2_2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f2_1.L/wing_f2_2.L/wing_f2_2.L_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f3_1.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f3_1.L/wing_f3_2.L
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.L/wing_arm.L/wing_f3_1.L/wing_f3_2.L/wing_f3_2.L_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f1_1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f1_1.R/wing_f1_2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f1_1.R/wing_f1_2.R/wing_f1_2.R_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f2_1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f2_1.R/wing_f2_2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f2_1.R/wing_f2_2.R/wing_f2_2.R_end
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f3_1.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f3_1.R/wing_f3_2.R
+        weight: 1
+      - path: imp_arma/root/hip/spine/wing_root.R/wing_arm.R/wing_f3_1.R/wing_f3_2.R/wing_f3_2.R_end
+        weight: 1
+      - path: imp_arma/root/hip/tail1
+        weight: 1
+      - path: imp_arma/root/hip/tail1/tail2
+        weight: 1
+      - path: imp_arma/root/hip/tail1/tail2/tail3
+        weight: 1
+      - path: imp_arma/root/hip/tail1/tail2/tail3/tail3_end
+        weight: 1
+      - path: imp_arma/root/IK_arm.L
+        weight: 1
+      - path: imp_arma/root/IK_arm.L/IK_elbow.L
+        weight: 1
+      - path: imp_arma/root/IK_arm.L/IK_elbow.L/IK_elbow.L_end
+        weight: 1
+      - path: imp_arma/root/IK_arm.R
+        weight: 1
+      - path: imp_arma/root/IK_arm.R/IK_elbow.R
+        weight: 1
+      - path: imp_arma/root/IK_arm.R/IK_elbow.R/IK_elbow.R_end
+        weight: 1
+      - path: imp_arma/root/IK_wing.L
+        weight: 1
+      - path: imp_arma/root/IK_wing.L/IK_wing_direct.L
+        weight: 1
+      - path: imp_arma/root/IK_wing.L/IK_wing_direct.L/IK_wing_direct.L_end
+        weight: 1
+      - path: imp_arma/root/IK_wing.R
+        weight: 1
+      - path: imp_arma/root/IK_wing.R/IK_wing_direct.R
+        weight: 1
+      - path: imp_arma/root/IK_wing.R/IK_wing_direct.R/IK_wing_direct.R_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

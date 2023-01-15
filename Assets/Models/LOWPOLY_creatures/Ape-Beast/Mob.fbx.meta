@@ -1,0 +1,3570 @@
+fileFormatVersion: 2
+guid: 9b0562397055b9f4daeb386610e29d0a
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: Chelust
+  - first:
+      1: 100002
+    second: Chelust_end
+  - first:
+      1: 100004
+    second: Foot.L
+  - first:
+      1: 100006
+    second: Foot.L_end
+  - first:
+      1: 100008
+    second: Foot.R
+  - first:
+      1: 100010
+    second: Foot.R_end
+  - first:
+      1: 100012
+    second: Hand_1.L
+  - first:
+      1: 100014
+    second: Hand_1.R
+  - first:
+      1: 100016
+    second: Hand_2.L
+  - first:
+      1: 100018
+    second: Hand_2.R
+  - first:
+      1: 100020
+    second: Hand_IK.L
+  - first:
+      1: 100022
+    second: Hand_IK.L_end
+  - first:
+      1: 100024
+    second: Hand_IK.R
+  - first:
+      1: 100026
+    second: Hand_IK.R_end
+  - first:
+      1: 100028
+    second: Head
+  - first:
+      1: 100030
+    second: Leg_1.L
+  - first:
+      1: 100032
+    second: Leg_1.R
+  - first:
+      1: 100034
+    second: Leg_2.L
+  - first:
+      1: 100036
+    second: Leg_2.R
+  - first:
+      1: 100038
+    second: Leg_3.L
+  - first:
+      1: 100040
+    second: Leg_3.R
+  - first:
+      1: 100042
+    second: LOKOT_IK.L
+  - first:
+      1: 100044
+    second: LOKOT_IK.L_end
+  - first:
+      1: 100046
+    second: LOKOT_IK.R
+  - first:
+      1: 100048
+    second: LOKOT_IK.R_end
+  - first:
+      1: 100050
+    second: Mezinec_1.L
+  - first:
+      1: 100052
+    second: Mezinec_1.R
+  - first:
+      1: 100054
+    second: Mezinec_2.L
+  - first:
+      1: 100056
+    second: Mezinec_2.R
+  - first:
+      1: 100058
+    second: Mezinec_claw.L
+  - first:
+      1: 100060
+    second: Mezinec_claw.L_end
+  - first:
+      1: 100062
+    second: Mezinec_claw.R
+  - first:
+      1: 100064
+    second: Mezinec_claw.R_end
+  - first:
+      1: 100066
+    second: //RootNode
+  - first:
+      1: 100068
+    second: Mob
+  - first:
+      1: 100070
+    second: Nec
+  - first:
+      1: 100072
+    second: PIATKA_IK.L
+  - first:
+      1: 100074
+    second: PIATKA_IK.R
+  - first:
+      1: 100076
+    second: RE_KOLENO_IK.L
+  - first:
+      1: 100078
+    second: RE_KOLENO_IK.L_end
+  - first:
+      1: 100080
+    second: RE_KOLENO_IK.R
+  - first:
+      1: 100082
+    second: RE_KOLENO_IK.R_end
+  - first:
+      1: 100084
+    second: Root_bone
+  - first:
+      1: 100086
+    second: Shoulder_1.L
+  - first:
+      1: 100088
+    second: Shoulder_1.R
+  - first:
+      1: 100090
+    second: Shoulder_2.L
+  - first:
+      1: 100092
+    second: Shoulder_2.R
+  - first:
+      1: 100094
+    second: SKELET.001
+  - first:
+      1: 100096
+    second: Spine_1
+  - first:
+      1: 100098
+    second: Spine_2
+  - first:
+      1: 100100
+    second: Spine_3
+  - first:
+      1: 100102
+    second: Sredniy_1.L
+  - first:
+      1: 100104
+    second: Sredniy_1.R
+  - first:
+      1: 100106
+    second: Sredniy_2.L
+  - first:
+      1: 100108
+    second: Sredniy_2.R
+  - first:
+      1: 100110
+    second: Sredniy_claw.L
+  - first:
+      1: 100112
+    second: Sredniy_claw.L_end
+  - first:
+      1: 100114
+    second: Sredniy_claw.R
+  - first:
+      1: 100116
+    second: Sredniy_claw.R_end
+  - first:
+      1: 100118
+    second: tail
+  - first:
+      1: 100120
+    second: tail_end
+  - first:
+      1: 100122
+    second: Thumb_1.L
+  - first:
+      1: 100124
+    second: Thumb_1.R
+  - first:
+      1: 100126
+    second: Thumb_2.L
+  - first:
+      1: 100128
+    second: Thumb_2.R
+  - first:
+      1: 100130
+    second: Thumb_claw.L
+  - first:
+      1: 100132
+    second: Thumb_claw.L_end
+  - first:
+      1: 100134
+    second: Thumb_claw.R
+  - first:
+      1: 100136
+    second: Thumb_claw.R_end
+  - first:
+      1: 100138
+    second: Ukaz_1.L
+  - first:
+      1: 100140
+    second: Ukaz_1.R
+  - first:
+      1: 100142
+    second: Ukaz_2.L
+  - first:
+      1: 100144
+    second: Ukaz_2.R
+  - first:
+      1: 100146
+    second: Ukaz_claw.L
+  - first:
+      1: 100148
+    second: Ukaz_claw.L_end
+  - first:
+      1: 100150
+    second: Ukaz_claw.R
+  - first:
+      1: 100152
+    second: Ukaz_claw.R_end
+  - first:
+      1: 100154
+    second: mob_skelet
+  - first:
+      4: 400000
+    second: Chelust
+  - first:
+      4: 400002
+    second: Chelust_end
+  - first:
+      4: 400004
+    second: Foot.L
+  - first:
+      4: 400006
+    second: Foot.L_end
+  - first:
+      4: 400008
+    second: Foot.R
+  - first:
+      4: 400010
+    second: Foot.R_end
+  - first:
+      4: 400012
+    second: Hand_1.L
+  - first:
+      4: 400014
+    second: Hand_1.R
+  - first:
+      4: 400016
+    second: Hand_2.L
+  - first:
+      4: 400018
+    second: Hand_2.R
+  - first:
+      4: 400020
+    second: Hand_IK.L
+  - first:
+      4: 400022
+    second: Hand_IK.L_end
+  - first:
+      4: 400024
+    second: Hand_IK.R
+  - first:
+      4: 400026
+    second: Hand_IK.R_end
+  - first:
+      4: 400028
+    second: Head
+  - first:
+      4: 400030
+    second: Leg_1.L
+  - first:
+      4: 400032
+    second: Leg_1.R
+  - first:
+      4: 400034
+    second: Leg_2.L
+  - first:
+      4: 400036
+    second: Leg_2.R
+  - first:
+      4: 400038
+    second: Leg_3.L
+  - first:
+      4: 400040
+    second: Leg_3.R
+  - first:
+      4: 400042
+    second: LOKOT_IK.L
+  - first:
+      4: 400044
+    second: LOKOT_IK.L_end
+  - first:
+      4: 400046
+    second: LOKOT_IK.R
+  - first:
+      4: 400048
+    second: LOKOT_IK.R_end
+  - first:
+      4: 400050
+    second: Mezinec_1.L
+  - first:
+      4: 400052
+    second: Mezinec_1.R
+  - first:
+      4: 400054
+    second: Mezinec_2.L
+  - first:
+      4: 400056
+    second: Mezinec_2.R
+  - first:
+      4: 400058
+    second: Mezinec_claw.L
+  - first:
+      4: 400060
+    second: Mezinec_claw.L_end
+  - first:
+      4: 400062
+    second: Mezinec_claw.R
+  - first:
+      4: 400064
+    second: Mezinec_claw.R_end
+  - first:
+      4: 400066
+    second: Mob
+  - first:
+      4: 400068
+    second: //RootNode
+  - first:
+      4: 400070
+    second: Nec
+  - first:
+      4: 400072
+    second: PIATKA_IK.L
+  - first:
+      4: 400074
+    second: PIATKA_IK.R
+  - first:
+      4: 400076
+    second: RE_KOLENO_IK.L
+  - first:
+      4: 400078
+    second: RE_KOLENO_IK.L_end
+  - first:
+      4: 400080
+    second: RE_KOLENO_IK.R
+  - first:
+      4: 400082
+    second: RE_KOLENO_IK.R_end
+  - first:
+      4: 400084
+    second: Root_bone
+  - first:
+      4: 400086
+    second: Shoulder_1.L
+  - first:
+      4: 400088
+    second: Shoulder_1.R
+  - first:
+      4: 400090
+    second: Shoulder_2.L
+  - first:
+      4: 400092
+    second: Shoulder_2.R
+  - first:
+      4: 400094
+    second: SKELET.001
+  - first:
+      4: 400096
+    second: Spine_1
+  - first:
+      4: 400098
+    second: Spine_2
+  - first:
+      4: 400100
+    second: Spine_3
+  - first:
+      4: 400102
+    second: Sredniy_1.L
+  - first:
+      4: 400104
+    second: Sredniy_1.R
+  - first:
+      4: 400106
+    second: Sredniy_2.L
+  - first:
+      4: 400108
+    second: Sredniy_2.R
+  - first:
+      4: 400110
+    second: Sredniy_claw.L
+  - first:
+      4: 400112
+    second: Sredniy_claw.L_end
+  - first:
+      4: 400114
+    second: Sredniy_claw.R
+  - first:
+      4: 400116
+    second: Sredniy_claw.R_end
+  - first:
+      4: 400118
+    second: tail
+  - first:
+      4: 400120
+    second: tail_end
+  - first:
+      4: 400122
+    second: Thumb_1.L
+  - first:
+      4: 400124
+    second: Thumb_1.R
+  - first:
+      4: 400126
+    second: Thumb_2.L
+  - first:
+      4: 400128
+    second: Thumb_2.R
+  - first:
+      4: 400130
+    second: Thumb_claw.L
+  - first:
+      4: 400132
+    second: Thumb_claw.L_end
+  - first:
+      4: 400134
+    second: Thumb_claw.R
+  - first:
+      4: 400136
+    second: Thumb_claw.R_end
+  - first:
+      4: 400138
+    second: Ukaz_1.L
+  - first:
+      4: 400140
+    second: Ukaz_1.R
+  - first:
+      4: 400142
+    second: Ukaz_2.L
+  - first:
+      4: 400144
+    second: Ukaz_2.R
+  - first:
+      4: 400146
+    second: Ukaz_claw.L
+  - first:
+      4: 400148
+    second: Ukaz_claw.L_end
+  - first:
+      4: 400150
+    second: Ukaz_claw.R
+  - first:
+      4: 400152
+    second: Ukaz_claw.R_end
+  - first:
+      4: 400154
+    second: mob_skelet
+  - first:
+      43: 4300000
+    second: Mob
+  - first:
+      74: 7400000
+    second: ApeB_attack_2
+  - first:
+      74: 7400002
+    second: ApeB_attack_1
+  - first:
+      74: 7400004
+    second: ApeB_walk
+  - first:
+      74: 7400006
+    second: ApeB_run
+  - first:
+      74: 7400008
+    second: ApeB_idle_battle
+  - first:
+      74: 7400010
+    second: ApeB_bite
+  - first:
+      74: 7400012
+    second: ApeB_death1
+  - first:
+      74: 7400014
+    second: ApeB_death2
+  - first:
+      74: 7400016
+    second: ApeB_defence
+  - first:
+      74: 7400018
+    second: ApeB_hit_1
+  - first:
+      74: 7400020
+    second: ApeB_hit_2
+  - first:
+      74: 7400022
+    second: ApeB_idle
+  - first:
+      74: 7400024
+    second: ApeB_roar
+  - first:
+      74: 7400026
+    second: ApeB_jump
+  - first:
+      74: 7400028
+    second: SKELET.001|idle_battle
+  - first:
+      74: 7400030
+    second: SKELET.001|jump
+  - first:
+      74: 7400032
+    second: ApeB_defence_start
+  - first:
+      74: 7400034
+    second: ApeB_defence_end
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: Mob
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LowPoly
+    second: {fileID: 2100000, guid: 5caedb2d92982ea489243a056d0cb187, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 1
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: ApeB_attack_2
+      takeName: attack_2
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Mob
+        weight: 1
+      - path: mob_skelet
+        weight: 1
+      - path: mob_skelet/Root_bone
+        weight: 1
+      - path: mob_skelet/Root_bone/Hand_IK.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Hand_IK.L/Hand_IK.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Hand_IK.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Hand_IK.R/Hand_IK.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/LOKOT_IK.L
+        weight: 1
+      - path: mob_skelet/Root_bone/LOKOT_IK.L/LOKOT_IK.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/LOKOT_IK.R
+        weight: 1
+      - path: mob_skelet/Root_bone/LOKOT_IK.R/LOKOT_IK.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.L
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.L/RE_KOLENO_IK.L
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.L/RE_KOLENO_IK.L/RE_KOLENO_IK.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.R
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.R/RE_KOLENO_IK.R
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.R/RE_KOLENO_IK.R/RE_KOLENO_IK.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.L/Leg_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.L/Leg_2.L/Leg_3.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.L/Leg_2.L/Leg_3.L/Foot.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.L/Leg_2.L/Leg_3.L/Foot.L/Foot.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.R/Leg_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.R/Leg_2.R/Leg_3.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.R/Leg_2.R/Leg_3.R/Foot.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.R/Leg_2.R/Leg_3.R/Foot.R/Foot.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Nec
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Nec/Head
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Nec/Head/Chelust
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Nec/Head/Chelust/Chelust_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Mezinec_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Mezinec_1.L/Mezinec_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Mezinec_1.L/Mezinec_2.L/Mezinec_claw.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Mezinec_1.L/Mezinec_2.L/Mezinec_claw.L/Mezinec_claw.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Sredniy_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Sredniy_1.L/Sredniy_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Sredniy_1.L/Sredniy_2.L/Sredniy_claw.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Sredniy_1.L/Sredniy_2.L/Sredniy_claw.L/Sredniy_claw.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Thumb_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Thumb_1.L/Thumb_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Thumb_1.L/Thumb_2.L/Thumb_claw.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Thumb_1.L/Thumb_2.L/Thumb_claw.L/Thumb_claw.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Ukaz_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Ukaz_1.L/Ukaz_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Ukaz_1.L/Ukaz_2.L/Ukaz_claw.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Ukaz_1.L/Ukaz_2.L/Ukaz_claw.L/Ukaz_claw.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Mezinec_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Mezinec_1.R/Mezinec_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Mezinec_1.R/Mezinec_2.R/Mezinec_claw.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Mezinec_1.R/Mezinec_2.R/Mezinec_claw.R/Mezinec_claw.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Sredniy_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Sredniy_1.R/Sredniy_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Sredniy_1.R/Sredniy_2.R/Sredniy_claw.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Sredniy_1.R/Sredniy_2.R/Sredniy_claw.R/Sredniy_claw.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Thumb_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Thumb_1.R/Thumb_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Thumb_1.R/Thumb_2.R/Thumb_claw.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Thumb_1.R/Thumb_2.R/Thumb_claw.R/Thumb_claw.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Ukaz_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Ukaz_1.R/Ukaz_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Ukaz_1.R/Ukaz_2.R/Ukaz_claw.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Ukaz_1.R/Ukaz_2.R/Ukaz_claw.R/Ukaz_claw.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/tail
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/tail/tail_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ApeB_attack_1
+      takeName: attack_1
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Mob
+        weight: 1
+      - path: mob_skelet
+        weight: 1
+      - path: mob_skelet/Root_bone
+        weight: 1
+      - path: mob_skelet/Root_bone/Hand_IK.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Hand_IK.L/Hand_IK.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Hand_IK.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Hand_IK.R/Hand_IK.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/LOKOT_IK.L
+        weight: 1
+      - path: mob_skelet/Root_bone/LOKOT_IK.L/LOKOT_IK.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/LOKOT_IK.R
+        weight: 1
+      - path: mob_skelet/Root_bone/LOKOT_IK.R/LOKOT_IK.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.L
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.L/RE_KOLENO_IK.L
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.L/RE_KOLENO_IK.L/RE_KOLENO_IK.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.R
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.R/RE_KOLENO_IK.R
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.R/RE_KOLENO_IK.R/RE_KOLENO_IK.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.L/Leg_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.L/Leg_2.L/Leg_3.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.L/Leg_2.L/Leg_3.L/Foot.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.L/Leg_2.L/Leg_3.L/Foot.L/Foot.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.R/Leg_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.R/Leg_2.R/Leg_3.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.R/Leg_2.R/Leg_3.R/Foot.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.R/Leg_2.R/Leg_3.R/Foot.R/Foot.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Nec
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Nec/Head
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Nec/Head/Chelust
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Nec/Head/Chelust/Chelust_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Mezinec_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Mezinec_1.L/Mezinec_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Mezinec_1.L/Mezinec_2.L/Mezinec_claw.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Mezinec_1.L/Mezinec_2.L/Mezinec_claw.L/Mezinec_claw.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Sredniy_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Sredniy_1.L/Sredniy_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Sredniy_1.L/Sredniy_2.L/Sredniy_claw.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Sredniy_1.L/Sredniy_2.L/Sredniy_claw.L/Sredniy_claw.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Thumb_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Thumb_1.L/Thumb_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Thumb_1.L/Thumb_2.L/Thumb_claw.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Thumb_1.L/Thumb_2.L/Thumb_claw.L/Thumb_claw.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Ukaz_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Ukaz_1.L/Ukaz_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Ukaz_1.L/Ukaz_2.L/Ukaz_claw.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Ukaz_1.L/Ukaz_2.L/Ukaz_claw.L/Ukaz_claw.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Mezinec_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Mezinec_1.R/Mezinec_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Mezinec_1.R/Mezinec_2.R/Mezinec_claw.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Mezinec_1.R/Mezinec_2.R/Mezinec_claw.R/Mezinec_claw.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Sredniy_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Sredniy_1.R/Sredniy_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Sredniy_1.R/Sredniy_2.R/Sredniy_claw.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Sredniy_1.R/Sredniy_2.R/Sredniy_claw.R/Sredniy_claw.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Thumb_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Thumb_1.R/Thumb_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Thumb_1.R/Thumb_2.R/Thumb_claw.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Thumb_1.R/Thumb_2.R/Thumb_claw.R/Thumb_claw.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Ukaz_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Ukaz_1.R/Ukaz_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Ukaz_1.R/Ukaz_2.R/Ukaz_claw.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Ukaz_1.R/Ukaz_2.R/Ukaz_claw.R/Ukaz_claw.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/tail
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/tail/tail_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ApeB_walk
+      takeName: walk
+      internalID: 0
+      firstFrame: 2
+      lastFrame: 38
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Mob
+        weight: 1
+      - path: mob_skelet
+        weight: 1
+      - path: mob_skelet/Root_bone
+        weight: 1
+      - path: mob_skelet/Root_bone/Hand_IK.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Hand_IK.L/Hand_IK.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Hand_IK.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Hand_IK.R/Hand_IK.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/LOKOT_IK.L
+        weight: 1
+      - path: mob_skelet/Root_bone/LOKOT_IK.L/LOKOT_IK.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/LOKOT_IK.R
+        weight: 1
+      - path: mob_skelet/Root_bone/LOKOT_IK.R/LOKOT_IK.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.L
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.L/RE_KOLENO_IK.L
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.L/RE_KOLENO_IK.L/RE_KOLENO_IK.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.R
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.R/RE_KOLENO_IK.R
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.R/RE_KOLENO_IK.R/RE_KOLENO_IK.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.L/Leg_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.L/Leg_2.L/Leg_3.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.L/Leg_2.L/Leg_3.L/Foot.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.L/Leg_2.L/Leg_3.L/Foot.L/Foot.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.R/Leg_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.R/Leg_2.R/Leg_3.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.R/Leg_2.R/Leg_3.R/Foot.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.R/Leg_2.R/Leg_3.R/Foot.R/Foot.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Nec
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Nec/Head
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Nec/Head/Chelust
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Nec/Head/Chelust/Chelust_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Mezinec_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Mezinec_1.L/Mezinec_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Mezinec_1.L/Mezinec_2.L/Mezinec_claw.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Mezinec_1.L/Mezinec_2.L/Mezinec_claw.L/Mezinec_claw.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Sredniy_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Sredniy_1.L/Sredniy_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Sredniy_1.L/Sredniy_2.L/Sredniy_claw.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Sredniy_1.L/Sredniy_2.L/Sredniy_claw.L/Sredniy_claw.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Thumb_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Thumb_1.L/Thumb_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Thumb_1.L/Thumb_2.L/Thumb_claw.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Thumb_1.L/Thumb_2.L/Thumb_claw.L/Thumb_claw.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Ukaz_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Ukaz_1.L/Ukaz_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Ukaz_1.L/Ukaz_2.L/Ukaz_claw.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Ukaz_1.L/Ukaz_2.L/Ukaz_claw.L/Ukaz_claw.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Mezinec_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Mezinec_1.R/Mezinec_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Mezinec_1.R/Mezinec_2.R/Mezinec_claw.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Mezinec_1.R/Mezinec_2.R/Mezinec_claw.R/Mezinec_claw.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Sredniy_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Sredniy_1.R/Sredniy_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Sredniy_1.R/Sredniy_2.R/Sredniy_claw.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Sredniy_1.R/Sredniy_2.R/Sredniy_claw.R/Sredniy_claw.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Thumb_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Thumb_1.R/Thumb_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Thumb_1.R/Thumb_2.R/Thumb_claw.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Thumb_1.R/Thumb_2.R/Thumb_claw.R/Thumb_claw.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Ukaz_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Ukaz_1.R/Ukaz_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Ukaz_1.R/Ukaz_2.R/Ukaz_claw.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Ukaz_1.R/Ukaz_2.R/Ukaz_claw.R/Ukaz_claw.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/tail
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/tail/tail_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ApeB_run
+      takeName: run
+      internalID: 0
+      firstFrame: 1
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Mob
+        weight: 1
+      - path: mob_skelet
+        weight: 1
+      - path: mob_skelet/Root_bone
+        weight: 1
+      - path: mob_skelet/Root_bone/Hand_IK.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Hand_IK.L/Hand_IK.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Hand_IK.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Hand_IK.R/Hand_IK.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/LOKOT_IK.L
+        weight: 1
+      - path: mob_skelet/Root_bone/LOKOT_IK.L/LOKOT_IK.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/LOKOT_IK.R
+        weight: 1
+      - path: mob_skelet/Root_bone/LOKOT_IK.R/LOKOT_IK.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.L
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.L/RE_KOLENO_IK.L
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.L/RE_KOLENO_IK.L/RE_KOLENO_IK.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.R
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.R/RE_KOLENO_IK.R
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.R/RE_KOLENO_IK.R/RE_KOLENO_IK.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.L/Leg_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.L/Leg_2.L/Leg_3.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.L/Leg_2.L/Leg_3.L/Foot.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.L/Leg_2.L/Leg_3.L/Foot.L/Foot.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.R/Leg_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.R/Leg_2.R/Leg_3.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.R/Leg_2.R/Leg_3.R/Foot.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.R/Leg_2.R/Leg_3.R/Foot.R/Foot.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Nec
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Nec/Head
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Nec/Head/Chelust
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Nec/Head/Chelust/Chelust_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Mezinec_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Mezinec_1.L/Mezinec_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Mezinec_1.L/Mezinec_2.L/Mezinec_claw.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Mezinec_1.L/Mezinec_2.L/Mezinec_claw.L/Mezinec_claw.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Sredniy_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Sredniy_1.L/Sredniy_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Sredniy_1.L/Sredniy_2.L/Sredniy_claw.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Sredniy_1.L/Sredniy_2.L/Sredniy_claw.L/Sredniy_claw.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Thumb_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Thumb_1.L/Thumb_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Thumb_1.L/Thumb_2.L/Thumb_claw.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Thumb_1.L/Thumb_2.L/Thumb_claw.L/Thumb_claw.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Ukaz_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Ukaz_1.L/Ukaz_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Ukaz_1.L/Ukaz_2.L/Ukaz_claw.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Ukaz_1.L/Ukaz_2.L/Ukaz_claw.L/Ukaz_claw.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Mezinec_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Mezinec_1.R/Mezinec_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Mezinec_1.R/Mezinec_2.R/Mezinec_claw.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Mezinec_1.R/Mezinec_2.R/Mezinec_claw.R/Mezinec_claw.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Sredniy_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Sredniy_1.R/Sredniy_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Sredniy_1.R/Sredniy_2.R/Sredniy_claw.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Sredniy_1.R/Sredniy_2.R/Sredniy_claw.R/Sredniy_claw.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Thumb_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Thumb_1.R/Thumb_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Thumb_1.R/Thumb_2.R/Thumb_claw.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Thumb_1.R/Thumb_2.R/Thumb_claw.R/Thumb_claw.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Ukaz_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Ukaz_1.R/Ukaz_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Ukaz_1.R/Ukaz_2.R/Ukaz_claw.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Ukaz_1.R/Ukaz_2.R/Ukaz_claw.R/Ukaz_claw.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/tail
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/tail/tail_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ApeB_idle_battle
+      takeName: idle_battle
+      internalID: 0
+      firstFrame: 1
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Mob
+        weight: 1
+      - path: mob_skelet
+        weight: 1
+      - path: mob_skelet/Root_bone
+        weight: 1
+      - path: mob_skelet/Root_bone/Hand_IK.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Hand_IK.L/Hand_IK.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Hand_IK.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Hand_IK.R/Hand_IK.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/LOKOT_IK.L
+        weight: 1
+      - path: mob_skelet/Root_bone/LOKOT_IK.L/LOKOT_IK.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/LOKOT_IK.R
+        weight: 1
+      - path: mob_skelet/Root_bone/LOKOT_IK.R/LOKOT_IK.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.L
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.L/RE_KOLENO_IK.L
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.L/RE_KOLENO_IK.L/RE_KOLENO_IK.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.R
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.R/RE_KOLENO_IK.R
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.R/RE_KOLENO_IK.R/RE_KOLENO_IK.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.L/Leg_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.L/Leg_2.L/Leg_3.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.L/Leg_2.L/Leg_3.L/Foot.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.L/Leg_2.L/Leg_3.L/Foot.L/Foot.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.R/Leg_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.R/Leg_2.R/Leg_3.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.R/Leg_2.R/Leg_3.R/Foot.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.R/Leg_2.R/Leg_3.R/Foot.R/Foot.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Nec
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Nec/Head
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Nec/Head/Chelust
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Nec/Head/Chelust/Chelust_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Mezinec_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Mezinec_1.L/Mezinec_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Mezinec_1.L/Mezinec_2.L/Mezinec_claw.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Mezinec_1.L/Mezinec_2.L/Mezinec_claw.L/Mezinec_claw.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Sredniy_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Sredniy_1.L/Sredniy_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Sredniy_1.L/Sredniy_2.L/Sredniy_claw.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Sredniy_1.L/Sredniy_2.L/Sredniy_claw.L/Sredniy_claw.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Thumb_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Thumb_1.L/Thumb_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Thumb_1.L/Thumb_2.L/Thumb_claw.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Thumb_1.L/Thumb_2.L/Thumb_claw.L/Thumb_claw.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Ukaz_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Ukaz_1.L/Ukaz_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Ukaz_1.L/Ukaz_2.L/Ukaz_claw.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Ukaz_1.L/Ukaz_2.L/Ukaz_claw.L/Ukaz_claw.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Mezinec_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Mezinec_1.R/Mezinec_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Mezinec_1.R/Mezinec_2.R/Mezinec_claw.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Mezinec_1.R/Mezinec_2.R/Mezinec_claw.R/Mezinec_claw.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Sredniy_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Sredniy_1.R/Sredniy_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Sredniy_1.R/Sredniy_2.R/Sredniy_claw.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Sredniy_1.R/Sredniy_2.R/Sredniy_claw.R/Sredniy_claw.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Thumb_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Thumb_1.R/Thumb_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Thumb_1.R/Thumb_2.R/Thumb_claw.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Thumb_1.R/Thumb_2.R/Thumb_claw.R/Thumb_claw.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Ukaz_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Ukaz_1.R/Ukaz_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Ukaz_1.R/Ukaz_2.R/Ukaz_claw.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Ukaz_1.R/Ukaz_2.R/Ukaz_claw.R/Ukaz_claw.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/tail
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/tail/tail_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ApeB_bite
+      takeName: bite
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Mob
+        weight: 1
+      - path: mob_skelet
+        weight: 1
+      - path: mob_skelet/Root_bone
+        weight: 1
+      - path: mob_skelet/Root_bone/Hand_IK.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Hand_IK.L/Hand_IK.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Hand_IK.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Hand_IK.R/Hand_IK.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/LOKOT_IK.L
+        weight: 1
+      - path: mob_skelet/Root_bone/LOKOT_IK.L/LOKOT_IK.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/LOKOT_IK.R
+        weight: 1
+      - path: mob_skelet/Root_bone/LOKOT_IK.R/LOKOT_IK.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.L
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.L/RE_KOLENO_IK.L
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.L/RE_KOLENO_IK.L/RE_KOLENO_IK.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.R
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.R/RE_KOLENO_IK.R
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.R/RE_KOLENO_IK.R/RE_KOLENO_IK.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.L/Leg_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.L/Leg_2.L/Leg_3.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.L/Leg_2.L/Leg_3.L/Foot.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.L/Leg_2.L/Leg_3.L/Foot.L/Foot.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.R/Leg_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.R/Leg_2.R/Leg_3.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.R/Leg_2.R/Leg_3.R/Foot.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.R/Leg_2.R/Leg_3.R/Foot.R/Foot.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Nec
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Nec/Head
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Nec/Head/Chelust
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Nec/Head/Chelust/Chelust_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Mezinec_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Mezinec_1.L/Mezinec_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Mezinec_1.L/Mezinec_2.L/Mezinec_claw.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Mezinec_1.L/Mezinec_2.L/Mezinec_claw.L/Mezinec_claw.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Sredniy_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Sredniy_1.L/Sredniy_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Sredniy_1.L/Sredniy_2.L/Sredniy_claw.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Sredniy_1.L/Sredniy_2.L/Sredniy_claw.L/Sredniy_claw.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Thumb_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Thumb_1.L/Thumb_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Thumb_1.L/Thumb_2.L/Thumb_claw.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Thumb_1.L/Thumb_2.L/Thumb_claw.L/Thumb_claw.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Ukaz_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Ukaz_1.L/Ukaz_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Ukaz_1.L/Ukaz_2.L/Ukaz_claw.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Ukaz_1.L/Ukaz_2.L/Ukaz_claw.L/Ukaz_claw.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Mezinec_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Mezinec_1.R/Mezinec_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Mezinec_1.R/Mezinec_2.R/Mezinec_claw.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Mezinec_1.R/Mezinec_2.R/Mezinec_claw.R/Mezinec_claw.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Sredniy_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Sredniy_1.R/Sredniy_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Sredniy_1.R/Sredniy_2.R/Sredniy_claw.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Sredniy_1.R/Sredniy_2.R/Sredniy_claw.R/Sredniy_claw.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Thumb_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Thumb_1.R/Thumb_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Thumb_1.R/Thumb_2.R/Thumb_claw.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Thumb_1.R/Thumb_2.R/Thumb_claw.R/Thumb_claw.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Ukaz_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Ukaz_1.R/Ukaz_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Ukaz_1.R/Ukaz_2.R/Ukaz_claw.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Ukaz_1.R/Ukaz_2.R/Ukaz_claw.R/Ukaz_claw.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/tail
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/tail/tail_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ApeB_death1
+      takeName: death1
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Mob
+        weight: 1
+      - path: mob_skelet
+        weight: 1
+      - path: mob_skelet/Root_bone
+        weight: 1
+      - path: mob_skelet/Root_bone/Hand_IK.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Hand_IK.L/Hand_IK.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Hand_IK.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Hand_IK.R/Hand_IK.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/LOKOT_IK.L
+        weight: 1
+      - path: mob_skelet/Root_bone/LOKOT_IK.L/LOKOT_IK.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/LOKOT_IK.R
+        weight: 1
+      - path: mob_skelet/Root_bone/LOKOT_IK.R/LOKOT_IK.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.L
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.L/RE_KOLENO_IK.L
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.L/RE_KOLENO_IK.L/RE_KOLENO_IK.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.R
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.R/RE_KOLENO_IK.R
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.R/RE_KOLENO_IK.R/RE_KOLENO_IK.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.L/Leg_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.L/Leg_2.L/Leg_3.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.L/Leg_2.L/Leg_3.L/Foot.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.L/Leg_2.L/Leg_3.L/Foot.L/Foot.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.R/Leg_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.R/Leg_2.R/Leg_3.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.R/Leg_2.R/Leg_3.R/Foot.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.R/Leg_2.R/Leg_3.R/Foot.R/Foot.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Nec
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Nec/Head
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Nec/Head/Chelust
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Nec/Head/Chelust/Chelust_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Mezinec_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Mezinec_1.L/Mezinec_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Mezinec_1.L/Mezinec_2.L/Mezinec_claw.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Mezinec_1.L/Mezinec_2.L/Mezinec_claw.L/Mezinec_claw.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Sredniy_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Sredniy_1.L/Sredniy_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Sredniy_1.L/Sredniy_2.L/Sredniy_claw.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Sredniy_1.L/Sredniy_2.L/Sredniy_claw.L/Sredniy_claw.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Thumb_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Thumb_1.L/Thumb_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Thumb_1.L/Thumb_2.L/Thumb_claw.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Thumb_1.L/Thumb_2.L/Thumb_claw.L/Thumb_claw.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Ukaz_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Ukaz_1.L/Ukaz_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Ukaz_1.L/Ukaz_2.L/Ukaz_claw.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Ukaz_1.L/Ukaz_2.L/Ukaz_claw.L/Ukaz_claw.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Mezinec_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Mezinec_1.R/Mezinec_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Mezinec_1.R/Mezinec_2.R/Mezinec_claw.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Mezinec_1.R/Mezinec_2.R/Mezinec_claw.R/Mezinec_claw.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Sredniy_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Sredniy_1.R/Sredniy_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Sredniy_1.R/Sredniy_2.R/Sredniy_claw.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Sredniy_1.R/Sredniy_2.R/Sredniy_claw.R/Sredniy_claw.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Thumb_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Thumb_1.R/Thumb_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Thumb_1.R/Thumb_2.R/Thumb_claw.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Thumb_1.R/Thumb_2.R/Thumb_claw.R/Thumb_claw.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Ukaz_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Ukaz_1.R/Ukaz_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Ukaz_1.R/Ukaz_2.R/Ukaz_claw.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Ukaz_1.R/Ukaz_2.R/Ukaz_claw.R/Ukaz_claw.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/tail
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/tail/tail_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ApeB_death2
+      takeName: death2
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Mob
+        weight: 1
+      - path: mob_skelet
+        weight: 1
+      - path: mob_skelet/Root_bone
+        weight: 1
+      - path: mob_skelet/Root_bone/Hand_IK.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Hand_IK.L/Hand_IK.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Hand_IK.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Hand_IK.R/Hand_IK.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/LOKOT_IK.L
+        weight: 1
+      - path: mob_skelet/Root_bone/LOKOT_IK.L/LOKOT_IK.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/LOKOT_IK.R
+        weight: 1
+      - path: mob_skelet/Root_bone/LOKOT_IK.R/LOKOT_IK.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.L
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.L/RE_KOLENO_IK.L
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.L/RE_KOLENO_IK.L/RE_KOLENO_IK.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.R
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.R/RE_KOLENO_IK.R
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.R/RE_KOLENO_IK.R/RE_KOLENO_IK.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.L/Leg_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.L/Leg_2.L/Leg_3.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.L/Leg_2.L/Leg_3.L/Foot.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.L/Leg_2.L/Leg_3.L/Foot.L/Foot.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.R/Leg_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.R/Leg_2.R/Leg_3.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.R/Leg_2.R/Leg_3.R/Foot.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.R/Leg_2.R/Leg_3.R/Foot.R/Foot.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Nec
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Nec/Head
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Nec/Head/Chelust
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Nec/Head/Chelust/Chelust_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Mezinec_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Mezinec_1.L/Mezinec_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Mezinec_1.L/Mezinec_2.L/Mezinec_claw.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Mezinec_1.L/Mezinec_2.L/Mezinec_claw.L/Mezinec_claw.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Sredniy_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Sredniy_1.L/Sredniy_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Sredniy_1.L/Sredniy_2.L/Sredniy_claw.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Sredniy_1.L/Sredniy_2.L/Sredniy_claw.L/Sredniy_claw.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Thumb_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Thumb_1.L/Thumb_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Thumb_1.L/Thumb_2.L/Thumb_claw.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Thumb_1.L/Thumb_2.L/Thumb_claw.L/Thumb_claw.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Ukaz_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Ukaz_1.L/Ukaz_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Ukaz_1.L/Ukaz_2.L/Ukaz_claw.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Ukaz_1.L/Ukaz_2.L/Ukaz_claw.L/Ukaz_claw.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Mezinec_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Mezinec_1.R/Mezinec_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Mezinec_1.R/Mezinec_2.R/Mezinec_claw.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Mezinec_1.R/Mezinec_2.R/Mezinec_claw.R/Mezinec_claw.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Sredniy_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Sredniy_1.R/Sredniy_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Sredniy_1.R/Sredniy_2.R/Sredniy_claw.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Sredniy_1.R/Sredniy_2.R/Sredniy_claw.R/Sredniy_claw.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Thumb_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Thumb_1.R/Thumb_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Thumb_1.R/Thumb_2.R/Thumb_claw.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Thumb_1.R/Thumb_2.R/Thumb_claw.R/Thumb_claw.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Ukaz_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Ukaz_1.R/Ukaz_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Ukaz_1.R/Ukaz_2.R/Ukaz_claw.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Ukaz_1.R/Ukaz_2.R/Ukaz_claw.R/Ukaz_claw.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/tail
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/tail/tail_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ApeB_defence
+      takeName: defence
+      internalID: 0
+      firstFrame: 2
+      lastFrame: 28
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Mob
+        weight: 1
+      - path: mob_skelet
+        weight: 1
+      - path: mob_skelet/Root_bone
+        weight: 1
+      - path: mob_skelet/Root_bone/Hand_IK.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Hand_IK.L/Hand_IK.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Hand_IK.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Hand_IK.R/Hand_IK.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/LOKOT_IK.L
+        weight: 1
+      - path: mob_skelet/Root_bone/LOKOT_IK.L/LOKOT_IK.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/LOKOT_IK.R
+        weight: 1
+      - path: mob_skelet/Root_bone/LOKOT_IK.R/LOKOT_IK.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.L
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.L/RE_KOLENO_IK.L
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.L/RE_KOLENO_IK.L/RE_KOLENO_IK.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.R
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.R/RE_KOLENO_IK.R
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.R/RE_KOLENO_IK.R/RE_KOLENO_IK.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.L/Leg_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.L/Leg_2.L/Leg_3.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.L/Leg_2.L/Leg_3.L/Foot.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.L/Leg_2.L/Leg_3.L/Foot.L/Foot.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.R/Leg_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.R/Leg_2.R/Leg_3.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.R/Leg_2.R/Leg_3.R/Foot.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.R/Leg_2.R/Leg_3.R/Foot.R/Foot.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Nec
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Nec/Head
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Nec/Head/Chelust
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Nec/Head/Chelust/Chelust_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Mezinec_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Mezinec_1.L/Mezinec_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Mezinec_1.L/Mezinec_2.L/Mezinec_claw.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Mezinec_1.L/Mezinec_2.L/Mezinec_claw.L/Mezinec_claw.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Sredniy_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Sredniy_1.L/Sredniy_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Sredniy_1.L/Sredniy_2.L/Sredniy_claw.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Sredniy_1.L/Sredniy_2.L/Sredniy_claw.L/Sredniy_claw.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Thumb_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Thumb_1.L/Thumb_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Thumb_1.L/Thumb_2.L/Thumb_claw.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Thumb_1.L/Thumb_2.L/Thumb_claw.L/Thumb_claw.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Ukaz_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Ukaz_1.L/Ukaz_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Ukaz_1.L/Ukaz_2.L/Ukaz_claw.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Ukaz_1.L/Ukaz_2.L/Ukaz_claw.L/Ukaz_claw.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Mezinec_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Mezinec_1.R/Mezinec_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Mezinec_1.R/Mezinec_2.R/Mezinec_claw.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Mezinec_1.R/Mezinec_2.R/Mezinec_claw.R/Mezinec_claw.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Sredniy_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Sredniy_1.R/Sredniy_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Sredniy_1.R/Sredniy_2.R/Sredniy_claw.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Sredniy_1.R/Sredniy_2.R/Sredniy_claw.R/Sredniy_claw.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Thumb_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Thumb_1.R/Thumb_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Thumb_1.R/Thumb_2.R/Thumb_claw.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Thumb_1.R/Thumb_2.R/Thumb_claw.R/Thumb_claw.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Ukaz_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Ukaz_1.R/Ukaz_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Ukaz_1.R/Ukaz_2.R/Ukaz_claw.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Ukaz_1.R/Ukaz_2.R/Ukaz_claw.R/Ukaz_claw.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/tail
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/tail/tail_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ApeB_hit_1
+      takeName: hit_1
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 15
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Mob
+        weight: 1
+      - path: mob_skelet
+        weight: 1
+      - path: mob_skelet/Root_bone
+        weight: 1
+      - path: mob_skelet/Root_bone/Hand_IK.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Hand_IK.L/Hand_IK.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Hand_IK.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Hand_IK.R/Hand_IK.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/LOKOT_IK.L
+        weight: 1
+      - path: mob_skelet/Root_bone/LOKOT_IK.L/LOKOT_IK.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/LOKOT_IK.R
+        weight: 1
+      - path: mob_skelet/Root_bone/LOKOT_IK.R/LOKOT_IK.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.L
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.L/RE_KOLENO_IK.L
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.L/RE_KOLENO_IK.L/RE_KOLENO_IK.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.R
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.R/RE_KOLENO_IK.R
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.R/RE_KOLENO_IK.R/RE_KOLENO_IK.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.L/Leg_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.L/Leg_2.L/Leg_3.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.L/Leg_2.L/Leg_3.L/Foot.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.L/Leg_2.L/Leg_3.L/Foot.L/Foot.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.R/Leg_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.R/Leg_2.R/Leg_3.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.R/Leg_2.R/Leg_3.R/Foot.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.R/Leg_2.R/Leg_3.R/Foot.R/Foot.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Nec
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Nec/Head
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Nec/Head/Chelust
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Nec/Head/Chelust/Chelust_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Mezinec_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Mezinec_1.L/Mezinec_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Mezinec_1.L/Mezinec_2.L/Mezinec_claw.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Mezinec_1.L/Mezinec_2.L/Mezinec_claw.L/Mezinec_claw.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Sredniy_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Sredniy_1.L/Sredniy_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Sredniy_1.L/Sredniy_2.L/Sredniy_claw.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Sredniy_1.L/Sredniy_2.L/Sredniy_claw.L/Sredniy_claw.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Thumb_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Thumb_1.L/Thumb_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Thumb_1.L/Thumb_2.L/Thumb_claw.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Thumb_1.L/Thumb_2.L/Thumb_claw.L/Thumb_claw.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Ukaz_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Ukaz_1.L/Ukaz_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Ukaz_1.L/Ukaz_2.L/Ukaz_claw.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Ukaz_1.L/Ukaz_2.L/Ukaz_claw.L/Ukaz_claw.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Mezinec_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Mezinec_1.R/Mezinec_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Mezinec_1.R/Mezinec_2.R/Mezinec_claw.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Mezinec_1.R/Mezinec_2.R/Mezinec_claw.R/Mezinec_claw.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Sredniy_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Sredniy_1.R/Sredniy_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Sredniy_1.R/Sredniy_2.R/Sredniy_claw.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Sredniy_1.R/Sredniy_2.R/Sredniy_claw.R/Sredniy_claw.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Thumb_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Thumb_1.R/Thumb_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Thumb_1.R/Thumb_2.R/Thumb_claw.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Thumb_1.R/Thumb_2.R/Thumb_claw.R/Thumb_claw.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Ukaz_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Ukaz_1.R/Ukaz_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Ukaz_1.R/Ukaz_2.R/Ukaz_claw.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Ukaz_1.R/Ukaz_2.R/Ukaz_claw.R/Ukaz_claw.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/tail
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/tail/tail_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ApeB_hit_2
+      takeName: hit_2
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 15
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Mob
+        weight: 1
+      - path: mob_skelet
+        weight: 1
+      - path: mob_skelet/Root_bone
+        weight: 1
+      - path: mob_skelet/Root_bone/Hand_IK.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Hand_IK.L/Hand_IK.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Hand_IK.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Hand_IK.R/Hand_IK.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/LOKOT_IK.L
+        weight: 1
+      - path: mob_skelet/Root_bone/LOKOT_IK.L/LOKOT_IK.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/LOKOT_IK.R
+        weight: 1
+      - path: mob_skelet/Root_bone/LOKOT_IK.R/LOKOT_IK.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.L
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.L/RE_KOLENO_IK.L
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.L/RE_KOLENO_IK.L/RE_KOLENO_IK.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.R
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.R/RE_KOLENO_IK.R
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.R/RE_KOLENO_IK.R/RE_KOLENO_IK.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.L/Leg_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.L/Leg_2.L/Leg_3.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.L/Leg_2.L/Leg_3.L/Foot.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.L/Leg_2.L/Leg_3.L/Foot.L/Foot.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.R/Leg_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.R/Leg_2.R/Leg_3.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.R/Leg_2.R/Leg_3.R/Foot.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.R/Leg_2.R/Leg_3.R/Foot.R/Foot.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Nec
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Nec/Head
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Nec/Head/Chelust
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Nec/Head/Chelust/Chelust_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Mezinec_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Mezinec_1.L/Mezinec_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Mezinec_1.L/Mezinec_2.L/Mezinec_claw.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Mezinec_1.L/Mezinec_2.L/Mezinec_claw.L/Mezinec_claw.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Sredniy_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Sredniy_1.L/Sredniy_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Sredniy_1.L/Sredniy_2.L/Sredniy_claw.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Sredniy_1.L/Sredniy_2.L/Sredniy_claw.L/Sredniy_claw.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Thumb_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Thumb_1.L/Thumb_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Thumb_1.L/Thumb_2.L/Thumb_claw.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Thumb_1.L/Thumb_2.L/Thumb_claw.L/Thumb_claw.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Ukaz_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Ukaz_1.L/Ukaz_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Ukaz_1.L/Ukaz_2.L/Ukaz_claw.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Ukaz_1.L/Ukaz_2.L/Ukaz_claw.L/Ukaz_claw.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Mezinec_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Mezinec_1.R/Mezinec_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Mezinec_1.R/Mezinec_2.R/Mezinec_claw.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Mezinec_1.R/Mezinec_2.R/Mezinec_claw.R/Mezinec_claw.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Sredniy_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Sredniy_1.R/Sredniy_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Sredniy_1.R/Sredniy_2.R/Sredniy_claw.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Sredniy_1.R/Sredniy_2.R/Sredniy_claw.R/Sredniy_claw.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Thumb_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Thumb_1.R/Thumb_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Thumb_1.R/Thumb_2.R/Thumb_claw.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Thumb_1.R/Thumb_2.R/Thumb_claw.R/Thumb_claw.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Ukaz_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Ukaz_1.R/Ukaz_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Ukaz_1.R/Ukaz_2.R/Ukaz_claw.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Ukaz_1.R/Ukaz_2.R/Ukaz_claw.R/Ukaz_claw.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/tail
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/tail/tail_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ApeB_idle
+      takeName: idle
+      internalID: 0
+      firstFrame: 1
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Mob
+        weight: 1
+      - path: mob_skelet
+        weight: 1
+      - path: mob_skelet/Root_bone
+        weight: 1
+      - path: mob_skelet/Root_bone/Hand_IK.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Hand_IK.L/Hand_IK.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Hand_IK.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Hand_IK.R/Hand_IK.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/LOKOT_IK.L
+        weight: 1
+      - path: mob_skelet/Root_bone/LOKOT_IK.L/LOKOT_IK.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/LOKOT_IK.R
+        weight: 1
+      - path: mob_skelet/Root_bone/LOKOT_IK.R/LOKOT_IK.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.L
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.L/RE_KOLENO_IK.L
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.L/RE_KOLENO_IK.L/RE_KOLENO_IK.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.R
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.R/RE_KOLENO_IK.R
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.R/RE_KOLENO_IK.R/RE_KOLENO_IK.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.L/Leg_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.L/Leg_2.L/Leg_3.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.L/Leg_2.L/Leg_3.L/Foot.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.L/Leg_2.L/Leg_3.L/Foot.L/Foot.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.R/Leg_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.R/Leg_2.R/Leg_3.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.R/Leg_2.R/Leg_3.R/Foot.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.R/Leg_2.R/Leg_3.R/Foot.R/Foot.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Nec
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Nec/Head
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Nec/Head/Chelust
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Nec/Head/Chelust/Chelust_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Mezinec_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Mezinec_1.L/Mezinec_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Mezinec_1.L/Mezinec_2.L/Mezinec_claw.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Mezinec_1.L/Mezinec_2.L/Mezinec_claw.L/Mezinec_claw.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Sredniy_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Sredniy_1.L/Sredniy_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Sredniy_1.L/Sredniy_2.L/Sredniy_claw.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Sredniy_1.L/Sredniy_2.L/Sredniy_claw.L/Sredniy_claw.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Thumb_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Thumb_1.L/Thumb_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Thumb_1.L/Thumb_2.L/Thumb_claw.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Thumb_1.L/Thumb_2.L/Thumb_claw.L/Thumb_claw.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Ukaz_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Ukaz_1.L/Ukaz_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Ukaz_1.L/Ukaz_2.L/Ukaz_claw.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Ukaz_1.L/Ukaz_2.L/Ukaz_claw.L/Ukaz_claw.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Mezinec_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Mezinec_1.R/Mezinec_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Mezinec_1.R/Mezinec_2.R/Mezinec_claw.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Mezinec_1.R/Mezinec_2.R/Mezinec_claw.R/Mezinec_claw.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Sredniy_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Sredniy_1.R/Sredniy_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Sredniy_1.R/Sredniy_2.R/Sredniy_claw.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Sredniy_1.R/Sredniy_2.R/Sredniy_claw.R/Sredniy_claw.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Thumb_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Thumb_1.R/Thumb_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Thumb_1.R/Thumb_2.R/Thumb_claw.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Thumb_1.R/Thumb_2.R/Thumb_claw.R/Thumb_claw.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Ukaz_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Ukaz_1.R/Ukaz_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Ukaz_1.R/Ukaz_2.R/Ukaz_claw.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Ukaz_1.R/Ukaz_2.R/Ukaz_claw.R/Ukaz_claw.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/tail
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/tail/tail_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ApeB_roar
+      takeName: roar
+      internalID: 0
+      firstFrame: 1
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Mob
+        weight: 1
+      - path: mob_skelet
+        weight: 1
+      - path: mob_skelet/Root_bone
+        weight: 1
+      - path: mob_skelet/Root_bone/Hand_IK.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Hand_IK.L/Hand_IK.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Hand_IK.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Hand_IK.R/Hand_IK.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/LOKOT_IK.L
+        weight: 1
+      - path: mob_skelet/Root_bone/LOKOT_IK.L/LOKOT_IK.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/LOKOT_IK.R
+        weight: 1
+      - path: mob_skelet/Root_bone/LOKOT_IK.R/LOKOT_IK.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.L
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.L/RE_KOLENO_IK.L
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.L/RE_KOLENO_IK.L/RE_KOLENO_IK.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.R
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.R/RE_KOLENO_IK.R
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.R/RE_KOLENO_IK.R/RE_KOLENO_IK.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.L/Leg_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.L/Leg_2.L/Leg_3.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.L/Leg_2.L/Leg_3.L/Foot.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.L/Leg_2.L/Leg_3.L/Foot.L/Foot.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.R/Leg_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.R/Leg_2.R/Leg_3.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.R/Leg_2.R/Leg_3.R/Foot.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.R/Leg_2.R/Leg_3.R/Foot.R/Foot.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Nec
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Nec/Head
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Nec/Head/Chelust
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Nec/Head/Chelust/Chelust_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Mezinec_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Mezinec_1.L/Mezinec_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Mezinec_1.L/Mezinec_2.L/Mezinec_claw.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Mezinec_1.L/Mezinec_2.L/Mezinec_claw.L/Mezinec_claw.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Sredniy_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Sredniy_1.L/Sredniy_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Sredniy_1.L/Sredniy_2.L/Sredniy_claw.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Sredniy_1.L/Sredniy_2.L/Sredniy_claw.L/Sredniy_claw.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Thumb_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Thumb_1.L/Thumb_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Thumb_1.L/Thumb_2.L/Thumb_claw.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Thumb_1.L/Thumb_2.L/Thumb_claw.L/Thumb_claw.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Ukaz_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Ukaz_1.L/Ukaz_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Ukaz_1.L/Ukaz_2.L/Ukaz_claw.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Ukaz_1.L/Ukaz_2.L/Ukaz_claw.L/Ukaz_claw.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Mezinec_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Mezinec_1.R/Mezinec_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Mezinec_1.R/Mezinec_2.R/Mezinec_claw.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Mezinec_1.R/Mezinec_2.R/Mezinec_claw.R/Mezinec_claw.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Sredniy_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Sredniy_1.R/Sredniy_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Sredniy_1.R/Sredniy_2.R/Sredniy_claw.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Sredniy_1.R/Sredniy_2.R/Sredniy_claw.R/Sredniy_claw.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Thumb_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Thumb_1.R/Thumb_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Thumb_1.R/Thumb_2.R/Thumb_claw.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Thumb_1.R/Thumb_2.R/Thumb_claw.R/Thumb_claw.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Ukaz_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Ukaz_1.R/Ukaz_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Ukaz_1.R/Ukaz_2.R/Ukaz_claw.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Ukaz_1.R/Ukaz_2.R/Ukaz_claw.R/Ukaz_claw.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/tail
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/tail/tail_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ApeB_jump
+      takeName: jump
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 37
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Mob
+        weight: 1
+      - path: mob_skelet
+        weight: 1
+      - path: mob_skelet/Root_bone
+        weight: 1
+      - path: mob_skelet/Root_bone/Hand_IK.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Hand_IK.L/Hand_IK.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Hand_IK.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Hand_IK.R/Hand_IK.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/LOKOT_IK.L
+        weight: 1
+      - path: mob_skelet/Root_bone/LOKOT_IK.L/LOKOT_IK.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/LOKOT_IK.R
+        weight: 1
+      - path: mob_skelet/Root_bone/LOKOT_IK.R/LOKOT_IK.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.L
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.L/RE_KOLENO_IK.L
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.L/RE_KOLENO_IK.L/RE_KOLENO_IK.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.R
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.R/RE_KOLENO_IK.R
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.R/RE_KOLENO_IK.R/RE_KOLENO_IK.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.L/Leg_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.L/Leg_2.L/Leg_3.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.L/Leg_2.L/Leg_3.L/Foot.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.L/Leg_2.L/Leg_3.L/Foot.L/Foot.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.R/Leg_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.R/Leg_2.R/Leg_3.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.R/Leg_2.R/Leg_3.R/Foot.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.R/Leg_2.R/Leg_3.R/Foot.R/Foot.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Nec
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Nec/Head
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Nec/Head/Chelust
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Nec/Head/Chelust/Chelust_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Mezinec_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Mezinec_1.L/Mezinec_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Mezinec_1.L/Mezinec_2.L/Mezinec_claw.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Mezinec_1.L/Mezinec_2.L/Mezinec_claw.L/Mezinec_claw.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Sredniy_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Sredniy_1.L/Sredniy_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Sredniy_1.L/Sredniy_2.L/Sredniy_claw.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Sredniy_1.L/Sredniy_2.L/Sredniy_claw.L/Sredniy_claw.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Thumb_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Thumb_1.L/Thumb_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Thumb_1.L/Thumb_2.L/Thumb_claw.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Thumb_1.L/Thumb_2.L/Thumb_claw.L/Thumb_claw.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Ukaz_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Ukaz_1.L/Ukaz_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Ukaz_1.L/Ukaz_2.L/Ukaz_claw.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Ukaz_1.L/Ukaz_2.L/Ukaz_claw.L/Ukaz_claw.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Mezinec_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Mezinec_1.R/Mezinec_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Mezinec_1.R/Mezinec_2.R/Mezinec_claw.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Mezinec_1.R/Mezinec_2.R/Mezinec_claw.R/Mezinec_claw.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Sredniy_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Sredniy_1.R/Sredniy_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Sredniy_1.R/Sredniy_2.R/Sredniy_claw.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Sredniy_1.R/Sredniy_2.R/Sredniy_claw.R/Sredniy_claw.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Thumb_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Thumb_1.R/Thumb_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Thumb_1.R/Thumb_2.R/Thumb_claw.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Thumb_1.R/Thumb_2.R/Thumb_claw.R/Thumb_claw.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Ukaz_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Ukaz_1.R/Ukaz_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Ukaz_1.R/Ukaz_2.R/Ukaz_claw.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Ukaz_1.R/Ukaz_2.R/Ukaz_claw.R/Ukaz_claw.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/tail
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/tail/tail_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ApeB_defence_start
+      takeName: defence
+      internalID: 0
+      firstFrame: 2
+      lastFrame: 15
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Mob
+        weight: 1
+      - path: mob_skelet
+        weight: 1
+      - path: mob_skelet/Root_bone
+        weight: 1
+      - path: mob_skelet/Root_bone/Hand_IK.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Hand_IK.L/Hand_IK.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Hand_IK.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Hand_IK.R/Hand_IK.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/LOKOT_IK.L
+        weight: 1
+      - path: mob_skelet/Root_bone/LOKOT_IK.L/LOKOT_IK.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/LOKOT_IK.R
+        weight: 1
+      - path: mob_skelet/Root_bone/LOKOT_IK.R/LOKOT_IK.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.L
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.L/RE_KOLENO_IK.L
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.L/RE_KOLENO_IK.L/RE_KOLENO_IK.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.R
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.R/RE_KOLENO_IK.R
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.R/RE_KOLENO_IK.R/RE_KOLENO_IK.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.L/Leg_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.L/Leg_2.L/Leg_3.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.L/Leg_2.L/Leg_3.L/Foot.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.L/Leg_2.L/Leg_3.L/Foot.L/Foot.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.R/Leg_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.R/Leg_2.R/Leg_3.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.R/Leg_2.R/Leg_3.R/Foot.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.R/Leg_2.R/Leg_3.R/Foot.R/Foot.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Nec
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Nec/Head
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Nec/Head/Chelust
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Nec/Head/Chelust/Chelust_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Mezinec_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Mezinec_1.L/Mezinec_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Mezinec_1.L/Mezinec_2.L/Mezinec_claw.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Mezinec_1.L/Mezinec_2.L/Mezinec_claw.L/Mezinec_claw.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Sredniy_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Sredniy_1.L/Sredniy_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Sredniy_1.L/Sredniy_2.L/Sredniy_claw.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Sredniy_1.L/Sredniy_2.L/Sredniy_claw.L/Sredniy_claw.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Thumb_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Thumb_1.L/Thumb_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Thumb_1.L/Thumb_2.L/Thumb_claw.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Thumb_1.L/Thumb_2.L/Thumb_claw.L/Thumb_claw.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Ukaz_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Ukaz_1.L/Ukaz_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Ukaz_1.L/Ukaz_2.L/Ukaz_claw.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Ukaz_1.L/Ukaz_2.L/Ukaz_claw.L/Ukaz_claw.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Mezinec_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Mezinec_1.R/Mezinec_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Mezinec_1.R/Mezinec_2.R/Mezinec_claw.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Mezinec_1.R/Mezinec_2.R/Mezinec_claw.R/Mezinec_claw.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Sredniy_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Sredniy_1.R/Sredniy_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Sredniy_1.R/Sredniy_2.R/Sredniy_claw.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Sredniy_1.R/Sredniy_2.R/Sredniy_claw.R/Sredniy_claw.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Thumb_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Thumb_1.R/Thumb_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Thumb_1.R/Thumb_2.R/Thumb_claw.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Thumb_1.R/Thumb_2.R/Thumb_claw.R/Thumb_claw.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Ukaz_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Ukaz_1.R/Ukaz_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Ukaz_1.R/Ukaz_2.R/Ukaz_claw.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Ukaz_1.R/Ukaz_2.R/Ukaz_claw.R/Ukaz_claw.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/tail
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/tail/tail_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ApeB_defence_end
+      takeName: defence
+      internalID: 0
+      firstFrame: 15
+      lastFrame: 28
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Mob
+        weight: 1
+      - path: mob_skelet
+        weight: 1
+      - path: mob_skelet/Root_bone
+        weight: 1
+      - path: mob_skelet/Root_bone/Hand_IK.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Hand_IK.L/Hand_IK.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Hand_IK.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Hand_IK.R/Hand_IK.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/LOKOT_IK.L
+        weight: 1
+      - path: mob_skelet/Root_bone/LOKOT_IK.L/LOKOT_IK.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/LOKOT_IK.R
+        weight: 1
+      - path: mob_skelet/Root_bone/LOKOT_IK.R/LOKOT_IK.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.L
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.L/RE_KOLENO_IK.L
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.L/RE_KOLENO_IK.L/RE_KOLENO_IK.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.R
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.R/RE_KOLENO_IK.R
+        weight: 1
+      - path: mob_skelet/Root_bone/PIATKA_IK.R/RE_KOLENO_IK.R/RE_KOLENO_IK.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.L/Leg_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.L/Leg_2.L/Leg_3.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.L/Leg_2.L/Leg_3.L/Foot.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.L/Leg_2.L/Leg_3.L/Foot.L/Foot.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.R/Leg_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.R/Leg_2.R/Leg_3.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.R/Leg_2.R/Leg_3.R/Foot.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Leg_1.R/Leg_2.R/Leg_3.R/Foot.R/Foot.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Nec
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Nec/Head
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Nec/Head/Chelust
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Nec/Head/Chelust/Chelust_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Mezinec_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Mezinec_1.L/Mezinec_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Mezinec_1.L/Mezinec_2.L/Mezinec_claw.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Mezinec_1.L/Mezinec_2.L/Mezinec_claw.L/Mezinec_claw.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Sredniy_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Sredniy_1.L/Sredniy_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Sredniy_1.L/Sredniy_2.L/Sredniy_claw.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Sredniy_1.L/Sredniy_2.L/Sredniy_claw.L/Sredniy_claw.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Thumb_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Thumb_1.L/Thumb_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Thumb_1.L/Thumb_2.L/Thumb_claw.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Thumb_1.L/Thumb_2.L/Thumb_claw.L/Thumb_claw.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Ukaz_1.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Ukaz_1.L/Ukaz_2.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Ukaz_1.L/Ukaz_2.L/Ukaz_claw.L
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.L/Shoulder_2.L/Hand_1.L/Hand_2.L/Ukaz_1.L/Ukaz_2.L/Ukaz_claw.L/Ukaz_claw.L_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Mezinec_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Mezinec_1.R/Mezinec_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Mezinec_1.R/Mezinec_2.R/Mezinec_claw.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Mezinec_1.R/Mezinec_2.R/Mezinec_claw.R/Mezinec_claw.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Sredniy_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Sredniy_1.R/Sredniy_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Sredniy_1.R/Sredniy_2.R/Sredniy_claw.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Sredniy_1.R/Sredniy_2.R/Sredniy_claw.R/Sredniy_claw.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Thumb_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Thumb_1.R/Thumb_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Thumb_1.R/Thumb_2.R/Thumb_claw.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Thumb_1.R/Thumb_2.R/Thumb_claw.R/Thumb_claw.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Ukaz_1.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Ukaz_1.R/Ukaz_2.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Ukaz_1.R/Ukaz_2.R/Ukaz_claw.R
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/Spine_2/Spine_3/Shoulder_1.R/Shoulder_2.R/Hand_1.R/Hand_2.R/Ukaz_1.R/Ukaz_2.R/Ukaz_claw.R/Ukaz_claw.R_end
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/tail
+        weight: 1
+      - path: mob_skelet/Root_bone/Spine_1/tail/tail_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1.5
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1.5
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
